@@ -1,0 +1,280 @@
+{
+  "title": "353 卫生综合刷题室",
+  "updated": "2026-10-19",
+  "total": 345,
+  "subjects": [
+    {
+      "id": "epidemiology",
+      "name": "流行病学",
+      "short": "流病",
+      "color": "#245c4c",
+      "description": "疾病分布、研究设计、偏倚与因果推断",
+      "file": "data/questions/epidemiology.json",
+      "count": 68,
+      "chapters": [
+        {
+          "name": "绪论与疾病分布",
+          "count": 10
+        },
+        {
+          "name": "描述性研究",
+          "count": 8
+        },
+        {
+          "name": "队列研究",
+          "count": 9
+        },
+        {
+          "name": "病例对照研究",
+          "count": 11
+        },
+        {
+          "name": "实验流行病学",
+          "count": 7
+        },
+        {
+          "name": "筛检与诊断试验",
+          "count": 7
+        },
+        {
+          "name": "偏倚与因果推断",
+          "count": 8
+        },
+        {
+          "name": "传染病与疾病监测",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "statistics",
+      "name": "卫生统计学",
+      "short": "卫统",
+      "color": "#3a6b8a",
+      "description": "统计描述、假设检验、回归与研究设计",
+      "file": "data/questions/statistics.json",
+      "count": 56,
+      "chapters": [
+        {
+          "name": "基本概念与统计描述",
+          "count": 8
+        },
+        {
+          "name": "抽样分布与参数估计",
+          "count": 7
+        },
+        {
+          "name": "假设检验",
+          "count": 8
+        },
+        {
+          "name": "t检验与方差分析",
+          "count": 7
+        },
+        {
+          "name": "卡方检验",
+          "count": 7
+        },
+        {
+          "name": "秩和检验",
+          "count": 5
+        },
+        {
+          "name": "直线相关与回归",
+          "count": 8
+        },
+        {
+          "name": "研究设计与样本量",
+          "count": 5
+        },
+        {
+          "name": "生存分析",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "name": "社会医学",
+      "short": "社医",
+      "color": "#8a5f7a",
+      "description": "医学模式、健康社会决定因素、卫生服务与政策",
+      "file": "data/questions/social.json",
+      "count": 45,
+      "chapters": [
+        {
+          "name": "绪论与健康观",
+          "count": 8
+        },
+        {
+          "name": "医学模式",
+          "count": 6
+        },
+        {
+          "name": "社会因素与健康",
+          "count": 8
+        },
+        {
+          "name": "社会调查研究方法",
+          "count": 7
+        },
+        {
+          "name": "健康状况评价",
+          "count": 6
+        },
+        {
+          "name": "健康危险因素评价",
+          "count": 2
+        },
+        {
+          "name": "社区卫生服务",
+          "count": 3
+        },
+        {
+          "name": "社会卫生策略",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "environmental",
+      "name": "环境卫生学",
+      "short": "环卫",
+      "color": "#5c7a4a",
+      "description": "空气、水、土壤、物理因素与风险评估",
+      "file": "data/questions/environmental.json",
+      "count": 49,
+      "chapters": [
+        {
+          "name": "环境与健康总论",
+          "count": 6
+        },
+        {
+          "name": "大气与健康",
+          "count": 9
+        },
+        {
+          "name": "水与饮用水",
+          "count": 9
+        },
+        {
+          "name": "土壤与健康",
+          "count": 6
+        },
+        {
+          "name": "住宅与公共场所",
+          "count": 6
+        },
+        {
+          "name": "物理因素",
+          "count": 6
+        },
+        {
+          "name": "环境质量评价与风险评估",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "occupational",
+      "name": "职业卫生与职业医学",
+      "short": "职卫",
+      "color": "#8a5a3c",
+      "description": "粉尘、职业中毒、物理因素与健康监护",
+      "file": "data/questions/occupational.json",
+      "count": 43,
+      "chapters": [
+        {
+          "name": "职业卫生总论",
+          "count": 7
+        },
+        {
+          "name": "生产性粉尘与尘肺",
+          "count": 8
+        },
+        {
+          "name": "职业中毒",
+          "count": 10
+        },
+        {
+          "name": "物理因素所致职业病",
+          "count": 7
+        },
+        {
+          "name": "职业肿瘤与职业流行病学",
+          "count": 6
+        },
+        {
+          "name": "职业健康监护与监督",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "name": "营养与食品卫生学",
+      "short": "营养",
+      "color": "#a06a2c",
+      "description": "营养素、膳食指南、食源性疾病与食品安全",
+      "file": "data/questions/nutrition.json",
+      "count": 56,
+      "chapters": [
+        {
+          "name": "能量与宏量营养素",
+          "count": 10
+        },
+        {
+          "name": "矿物质与维生素",
+          "count": 14
+        },
+        {
+          "name": "各类食物与膳食指南",
+          "count": 10
+        },
+        {
+          "name": "营养相关疾病",
+          "count": 8
+        },
+        {
+          "name": "食品污染与食源性疾病",
+          "count": 9
+        },
+        {
+          "name": "食品添加剂与安全管理",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "toxicology",
+      "name": "毒理学",
+      "short": "毒理",
+      "color": "#6b5a7a",
+      "description": "毒物动力学、毒性评价与安全限值",
+      "file": "data/questions/toxicology.json",
+      "count": 28,
+      "chapters": [
+        {
+          "name": "毒理学基本概念",
+          "count": 6
+        },
+        {
+          "name": "生物转运与生物转化",
+          "count": 6
+        },
+        {
+          "name": "毒性作用机制与评价",
+          "count": 6
+        },
+        {
+          "name": "遗传毒性与化学致癌",
+          "count": 4
+        },
+        {
+          "name": "安全性评价与风险评估",
+          "count": 6
+        }
+      ]
+    }
+  ]
+}

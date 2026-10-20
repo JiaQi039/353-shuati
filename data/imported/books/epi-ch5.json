@@ -1,0 +1,1111 @@
+[
+  {
+    "stem": "为检验病因假设，队列研究最初选择的队列应该是",
+    "options": [
+      "患所研究疾病的人",
+      "不患所研究疾病的人",
+      "具有病因因素的人",
+      "不具有病因因素的人",
+      "具有所研究疾病家族史的人"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 40,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-ch5-001"
+  },
+  {
+    "stem": "队列研究中研究对象应选择",
+    "options": [
+      "在患所研究疾病者中选择有、无某种暴露因素的两个组",
+      "在患所研究疾病者中选择有某种暴露因素的为一组，在无该病者中选择无该种暴露因素的为另一组",
+      "在无所研究疾病者中选择有某种暴露因素的为一组，在有该病者中选择无该暴露因素的为另一组",
+      "在无所研究疾病者中，选择有、无某种暴露因素的两个组",
+      "任选有无暴露的两个组"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 40,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-ch5-002"
+  },
+  {
+    "stem": "关于历史性队列研究，说法错误的是",
+    "options": [
+      "观察方向是从“因”到“果”",
+      "观察方向是从“果”到“因”",
+      "应有完整可靠的过去某段时间内研究对象的暴露资料",
+      "应有完整可靠的过去某段时间内研究对象的结局资料",
+      "多用于具有特殊暴露的职业人群的职业病研究"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 40,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-ch5-003"
+  },
+  {
+    "stem": "队列研究中暴露人群不能选自",
+    "options": [
+      "职业人群",
+      "特殊暴露人群",
+      "一般人群",
+      "有组织的人群团体",
+      "患有所研究疾病的人群"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-ch5-004"
+  },
+  {
+    "stem": "关于队列研究，说法正确的是",
+    "options": [
+      "不能计算相对危险度",
+      "不能计算特异危险度",
+      "只能计算比值比来估计相对危险度",
+      "既可计算相对危险度，又可计算特异危险度",
+      "只能计算特异危险度来估计相对危险度"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-ch5-005"
+  },
+  {
+    "stem": "从方法学角度，队列研究属于",
+    "options": [
+      "相关性研究",
+      "描述性研究",
+      "分析性研究",
+      "实验性研究",
+      "理论性研究"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-ch5-006"
+  },
+  {
+    "stem": "评价某致病因素对总人群某病危害程度的指标是",
+    "options": [
+      "RR",
+      "AR",
+      "PAR",
+      "AR%",
+      "EF"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-ch5-007"
+  },
+  {
+    "stem": "队列研究中最常见的偏倚是",
+    "options": [
+      "人院率偏倚",
+      "现患-新发病例偏倚",
+      "失访偏倚",
+      "无应答偏倚",
+      "错误分类偏倚"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-ch5-008"
+  },
+  {
+    "stem": "队列研究的缺点是",
+    "options": [
+      "资料靠回忆提供，可能存在偏倚",
+      "观察时间长，费用高",
+      "研究的暴露是人为给予的",
+      "不适用于单因多果疾病的病因研究",
+      "因果时间顺序不清楚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-ch5-009"
+  },
+  {
+    "stem": "有关队列研究与实验性研究相同点的叙述，错误的是",
+    "options": [
+      "均需给予人为的干预措施",
+      "均需设立对照组",
+      "均是由因及果的研究方法",
+      "均可能产生失访偏倚",
+      "均是前瞻性研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究基础",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-ch5-010"
+  },
+  {
+    "stem": "在一所医院的300名吸烟男医师中，有100人主动戒烟，200人继续吸烟，研究者进行了20年的随访观察，比较两组医师肺癌的发生与死亡情况。这种研究属于",
+    "options": [
+      "实验性研究",
+      "病例对照研究",
+      "描述性研究",
+      "队列研究",
+      "理论性研究"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-ch5-011"
+  },
+  {
+    "stem": "某项队列研究得出的病因分值为90%，说法正确的是",
+    "options": [
+      "暴露人群中发病或死亡90%归因于暴露因素",
+      "暴露人群中发病或死亡10%归因于暴露因素",
+      "暴露组的发病危险是对照组的90%",
+      "对照组的发病危险是暴露组的90%",
+      "总人群中发病或死亡90%归因于暴露因素"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-ch5-012"
+  },
+  {
+    "stem": "某研究得出某因素与疾病的关系RR=1，95%可信区间为0.7～1.5，这意味着",
+    "options": [
+      "该RR值95%的可能是错误的",
+      "该RR值在0.7～1.5之间的机会为95%",
+      "该RR值说明该因素与疾病无关，而95%可信区间说明有联系",
+      "存在偏倚的可能性为95%",
+      "RR值正负联系均存在"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-ch5-013"
+  },
+  {
+    "stem": "1945一1975年，观察到接触同位素的1000名女工中有20人发生骨癌，同期1000名未接触同位素的女工中有4人发生骨癌。正确结论是",
+    "options": [
+      "接触同位素患骨癌的相对危险度=（20/1000）-（4/1000）",
+      "接触同位素患骨癌的相对危险度=（20/4）-（980/996）",
+      "接触同位素患骨癌的相对危险度=（20/1000）/（4/1000）",
+      "接触同位素患骨癌的相对危险度=（4/1000）/（20/1000）",
+      "接触同位素患骨癌的相对危险度=（20/4）/（980/996）"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-ch5-014"
+  },
+  {
+    "stem": "一项吸烟与膀胱癌关系的前瞻性队列研究结果显示，男性吸烟者膀胱癌发病率为48.0/10万，不吸烟者发病率为25.4/10万，则归因危险度为",
+    "options": [
+      "1.89/10万",
+      "22.6/10万",
+      "48.0/10万",
+      "0.53",
+      "1.89"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-ch5-015"
+  },
+  {
+    "stem": "在一项吸烟与肺癌关系的队列研究中，吸烟者肺癌死亡率为0.96%，不吸烟者为0.07%，一般人群为0.56%，则人群归因危险度为",
+    "options": [
+      "0.40%",
+      "0.49%",
+      "0.89%",
+      "87.5%",
+      "92.7%"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-ch5-016"
+  },
+  {
+    "stem": "已知吸烟者肺癌死亡率为0.96%，不吸烟者为0.07%。如果某人群吸烟率为55%，肺癌死亡率为0.56%。，则该人群中完全由吸烟引起的肺癌死亡率占该人群肺癌死亡率的比重是",
+    "options": [
+      "41.7%",
+      "71.4%",
+      "87.5%",
+      "92.7%",
+      "93.2%"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-ch5-017"
+  },
+  {
+    "stem": "一项饮酒与冠心病关系的队列研究结果显示：RR=4.5，对该结果的最恰当的解释是",
+    "options": [
+      "饮酒组发生冠心病的危险显著高于对照组",
+      "冠心病组饮酒的比例显著高于对照组",
+      "饮酒组发生冠心病的危险比对照组增高4.5倍",
+      "饮酒组发生冠心病的危险是对照组的4.5倍",
+      "冠心病组中饮酒的比例是对照组的4.5倍"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-ch5-018"
+  },
+  {
+    "stem": "某妇产医院临床医师询问并记录孕妇在孕期的吸烟情况，随访观察并分析孕期吸烟与新生儿低出生体重的联系，这种研究的类型是",
+    "options": [
+      "现况研究",
+      "横断面研究",
+      "病例对照研究",
+      "队列研究",
+      "临床试验"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-ch5-019"
+  },
+  {
+    "stem": "某研究者进行了一项关于脂肪摄人与男性前列腺癌关系的队列研究，选择高脂肪和低脂肪摄人者各100名，随访10年，高脂肪摄人组中有10人发生前列腺癌，低脂肪摄人组中有5人发生前列腺癌，RR的95%可信区间是0.95～3.52，假设α=0.05，推论正确的是",
+    "options": [
+      "高脂肪摄人与前列腺癌发病率升高之间的关联有统计学意义",
+      "高脂肪摄人与前列腺癌发病率降低之间的关联有统计学意义",
+      "可以在95%的可信度上认为高脂摄人降低患前列腺癌的危险",
+      "可以在95%的可信度上认为高脂摄入升高患前列腺癌的危险",
+      "尚不能认为前列腺癌发病率与脂肪摄入水平之间关联有统计学意义"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-ch5-020"
+  },
+  {
+    "stem": "欲说明人群中由于高盐饮食所致高血压病危险的比例时，应选用的指标是",
+    "options": [
+      "人群归因危险度百分比",
+      "归因危险度百分比",
+      "归因危险度",
+      "相对危险度",
+      "比值比"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-ch5-021"
+  },
+  {
+    "stem": "若某因素与某疾病的因果关系已经确定，那么为了探讨该因素对暴露者和全人群该病发病绝对影响的大小，应选用的指标分别是",
+    "options": [
+      "AR和PAR",
+      "AR和RR",
+      "RR和AR",
+      "AR%和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-ch5-022"
+  },
+  {
+    "stem": "在一项队列研究中，非吸烟组肺癌和冠心病的死亡率分别为10/10万和100/10万；20岁以前开始吸烟组为60/10万和150/10万，20岁以后开始吸烟组为40/10万和130/10万。论述错误的是",
+    "options": [
+      "两个吸烟组吸烟导致肺癌的相对危险度均大于冠心病的相对危险度",
+      "吸烟者患肺癌的相对危险度为5.0，患冠心病的相对危险度为1.4",
+      "两个吸烟组吸烟导致肺癌和冠心病的特异危险度相等",
+      "两个吸烟组吸烟导致肺癌和冠心病的AR%不相等",
+      "吸烟开始年龄与肺癌和冠心病的死亡率有关"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-ch5-023"
+  },
+  {
+    "stem": "如果某因素导致A病的归因危险度大于导致B病的归因危险度，假定联系是因果联系，则可以认为",
+    "options": [
+      "暴露于该因素者患A病的相对危险度大于患B病的相对危险度",
+      "患A病者暴露于该因素的概率大于患B病者",
+      "该因素与A病的病因学联系比与B病的病因学联系强",
+      "暴露者除去暴露因素后，预防A病的效果好于B病",
+      "暴露者除去暴露因素后，预防A病的效果差于B病"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "队列研究指标与分析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-ch5-024"
+  },
+  {
+    "stem": "队列研究中，以观察人年数为分母计算的疾病频率指标是",
+    "options": [
+      "累积发病率",
+      "发病密度",
+      "病死率",
+      "现患率",
+      "死亡率"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-ch5-025"
+  },
+  {
+    "stem": "队列研究中，以观察开始时的人口数为分母计算的疾病频率指标是",
+    "options": [
+      "累积发病率",
+      "发病密度",
+      "病死率",
+      "现患率",
+      "死亡率"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-ch5-026"
+  },
+  {
+    "stem": "表明暴露组发病率与非暴露组发病率之差的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-ch5-027"
+  },
+  {
+    "stem": "表明暴露组发病率与非暴露组发病率之比的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-ch5-028"
+  },
+  {
+    "stem": "欲了解总人群发病率中归因于暴露部分的比例时，常用的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 29,
+    "id": "lib-epi-ch5-029"
+  },
+  {
+    "stem": "欲了解暴露人群发病率中归因于暴露部分的比例时，常用的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 30,
+    "id": "lib-epi-ch5-030"
+  },
+  {
+    "stem": "反映与非暴露相比暴露生物学效应（致病作用）的指标是",
+    "options": [
+      "RR和AR",
+      "AR和PAR",
+      "RR和PAR",
+      "AR和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 31,
+    "id": "lib-epi-ch5-031"
+  },
+  {
+    "stem": "评价某暴露因素对总人群某病危害程度的指标是",
+    "options": [
+      "RR和AR",
+      "AR和PAR",
+      "RR和PAR",
+      "AR和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 32,
+    "id": "lib-epi-ch5-032"
+  },
+  {
+    "stem": "与人群中暴露比例有关的指标是",
+    "options": [
+      "RR和AR",
+      "AR和PAR",
+      "RR和PAR",
+      "AR和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "常用指标辨析",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 33,
+    "id": "lib-epi-ch5-033"
+  },
+  {
+    "stem": "队列研究（cohort study）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "是将研究人群按照是否暴露于某个因素或暴露的程度分为暴露组和非暴露组，追踪观察并比较两组成员在特定时间内与暴露因素相关结局（如疾病）发生率的差异，从而判定暴露因素与结局之间有无因果关联及关联程度的一种观察性研究方法。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-034"
+  },
+  {
+    "stem": "动态队列（dynamic cohort）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "指在整个观察期内，原有的队列成员可以不断退出，新的观察对象可以随时进入，即整个观察期内队列成员不是固定的。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-035"
+  },
+  {
+    "stem": "历史性队列研究（historical cohort study）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "是队列研究的一种类型，即根据研究开始时研究者已掌握的有关研究对象在过去某个时点暴露状况的历史资料进行分组，比较两组成员在过去那个时点到现在与暴露因素相关结局（如疾病）发生率的差异，从而判定暴露因素与结局之间有无因果关联及关联的程度。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-036"
+  },
+  {
+    "stem": "内对照（internal control）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "如果在一般人群或有组织的人群团体中选择暴露于所研究因素的对象作为暴露组，那么其余非暴露者就可作为对照组，此即内对照。这样暴露组和非暴露组来自同一个人群总体，可比性好。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-037"
+  },
+  {
+    "stem": "累积发病率（cumulative incidence）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "是以队列研究整个观察期内的发病人数除以观察开始时的人口数计算的发病率，适用于固定队列。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-038"
+  },
+  {
+    "stem": "发病密度（incidence density）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "在队列研究中以人时为单位计算出来的发病率带有瞬时频率性质，即表示在一定时间内发生某病新病例的速率，称为发病密度，适用于动态队列。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-039"
+  },
+  {
+    "stem": "标化发病（或死亡）比（standardized morbidity/mortality ratio）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "指观察人群中实际发病（或死亡）人数与以全人口的发病（或死亡）率作为标准计算出的观察人群预期发病（或死亡）人数之比。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-040"
+  },
+  {
+    "stem": "相对危险度（relative risk）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "是暴露组与非暴露组的发病（或死亡）率之比，表示暴露组发病（或死亡）的危险是非暴露组的多少倍。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-041"
+  },
+  {
+    "stem": "归因危险度（attributable risk）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "是暴露组发病（或死亡）率与对照组发病（或死亡）率相差的绝对值，说明暴露组发病（或死亡）危险特异地归因于暴露因素的程度，即由于暴露因素的存在使暴露人群发病（或死亡）率增加或减少的程度。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-042"
+  },
+  {
+    "stem": "病因分值（etiologic fraction）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "即归因危险度百分比，指暴露人群中归因于暴露的那部分发病（或死亡）率占全部发病（或死亡）率的百分比。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-043"
+  },
+  {
+    "stem": "人群病因分值（population etiologic fraction）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "即人群归因危险度百分比，指总人群发病（或死亡）率中归因于暴露的部分占全部发病（或死亡）率的百分比。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-044"
+  },
+  {
+    "stem": "失访偏倚（lost to follow-up bias）",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "一、名词解释",
+    "tag": "名词解释",
+    "explain": "",
+    "referenceAnswer": "队列研究中，如果暴露组和对照组的失访率以及失访者与未失访者的基本特征和结局发生率不同，则暴露与结局之间的关系可能因失访而被歪曲，称为失访偏倚。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-045"
+  },
+  {
+    "stem": "根据研究对象进出队列的时间不同，队列分为两种：一种是____，另一种是____。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "固定队列；动态队列",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-046"
+  },
+  {
+    "stem": "依据研究对象进入队列及终止观察的时间不同，队列研究可分为____、____和____三种类型。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "前瞻性队列研究；历史性队列研究；历史前瞻性队列研究",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-047"
+  },
+  {
+    "stem": "队列研究中，暴露组为具有某暴露因素的人群，可从以下四种人群中选择暴露组，即____、____、____、____。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "职业人群；特殊暴露人群；一般人群；有组织的人群团体",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-048"
+  },
+  {
+    "stem": "队列研究中，常用于选择对照人群的方式有下列四种，即____、____、____、____。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "内对照；外对照；总人口对照；多重对照",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-049"
+  },
+  {
+    "stem": "当研究对象数量较少，结局事件发生率比较低时，无论观察时间长短，都不宜直接计算率。此时可以用____替代率，即求得观察人群中____与____之比。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "标化发病（或死亡）比；实际发病（或死亡）人数；预期发病（或死亡）人数",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-050"
+  },
+  {
+    "stem": "在队列研究的资料分析阶段可采用____、____和____等方法来控制混杂偏倚。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "标准化分析；分层分析；多变量分析",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-051"
+  },
+  {
+    "stem": "队列研究随访期长短主要取决于两个因素，即____和____。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "研究结局出现的速度；暴露与结局的联系强度",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-052"
+  },
+  {
+    "stem": "队列研究所需样本量取决于随访期内____、____、____和____四个因素。",
+    "options": [],
+    "answer": [],
+    "type": "fill",
+    "chapter": "二、填空题",
+    "tag": "填空题",
+    "explain": "",
+    "referenceAnswer": "对照组（或一般人群）的估计结局发生率（p0）；暴露组的估计结局发生率（p1）；统计学要求的显著性水平（α）；把握度（1-β）",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 45,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-053"
+  },
+  {
+    "stem": "简述队列研究的基本原理。",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "四、简答题",
+    "tag": "简答题",
+    "explain": "",
+    "referenceAnswer": "队列研究的基本原理是：在某一特定人群中，根据目前或过去某个时期是否暴露于某个/些待研究的因素将研究对象分为暴露组和非暴露组，或按不同的暴露水平将研究对象分成不同的亚组，随访观察各组人群待研究结局的发生情况，比较各组的结局发生率，从而判定暴露因素与结局的因果关系。如果暴露组与非暴露组之间某结局发生率的差异有统计学意义，研究中又不存在明显的偏倚，则可推测暴露与结局之间可能存在因果关系，再进一步估计暴露与结局之间关联的强度。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 46,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-054"
+  },
+  {
+    "stem": "简述队列研究的特点。",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "四、简答题",
+    "tag": "简答题",
+    "explain": "",
+    "referenceAnswer": "队列研究的四个特点是：（1）时间上是前瞻性的；（2）属于观察性研究，暴露不是研究者人为给予或随机分配的，研究结局也是在非干预情况下产生的；（3）研究对象按暴露与否进行分组；（4）是从“因”到“果”的研究，能明确暴露与结局的因果联系。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 46,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-055"
+  },
+  {
+    "stem": "简述前瞻性队列研究与回顾性队列研究的主要区别。",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "四、简答题",
+    "tag": "简答题",
+    "explain": "",
+    "referenceAnswer": "前瞻性队列研究在研究开始时根据每个研究对象的暴露情况分组，此时研究结局还没有出现，需要随访观察一段时间；暴露与结局通过调查和随访获得。历史性队列研究根据研究开始时已掌握的研究对象在过去某个时点的暴露资料进行分组，研究的结局在研究开始时已经发生，不需要前瞻性观察，暴露与结局均来源于历史记录或档案材料。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 46,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-056"
+  },
+  {
+    "stem": "简述相对危险度与归因危险度的区别。",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "四、简答题",
+    "tag": "简答题",
+    "explain": "",
+    "referenceAnswer": "相对危险度是率比，是暴露组和非暴露组的发病（或死亡）率之比，表示暴露组发病（或死亡）的危险是非暴露组的多少倍，具有病因学意义；归因危险度是率差，是暴露组发病（或死亡）率与对照组发病（或死亡）率相差的绝对值，说明暴露组发病（或死亡）危险特异地归因于暴露因素的程度，在疾病预防和公共卫生学上的意义更大。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 46,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-057"
+  },
+  {
+    "stem": "某工厂为避免噪音对工人健康的影响向工人提供耳塞。研究者发现500名工人中100人因耳塞不舒服未戴。对全部工人听力检查发现戴耳塞和未戴耳塞者分别有16人和40人听力明显下降，而四年前工厂开业时所有工人听力正常。请问未戴耳塞导致听力下降的相对危险度和归因危险度各是多少？请解释其意义。",
+    "options": [],
+    "answer": [],
+    "type": "short",
+    "chapter": "五、分析计算题",
+    "tag": "队列研究计算",
+    "explain": "",
+    "referenceAnswer": "未戴耳塞组听力下降率=40/100=40%，戴耳塞组=16/400=4%；RR=40%/4%=10，说明未戴耳塞者发生听力下降的危险是戴耳塞者的10倍；AR=40%-4%=36%，说明未戴耳塞者如果戴耳塞，可使听力下降的发生率降低36%。",
+    "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+    "page": 47,
+    "reviewStatus": "draft",
+    "id": "lib-epi-ch5-058"
+  }
+]

@@ -1,0 +1,8114 @@
+[
+  {
+    "stem": "流行病学的定义可概括为",
+    "options": [
+      "研究各种疾病的发病机制，诊断以及鉴别诊断和治疗方式的综合学科",
+      "研究传染病在人群中的分布及其影响因素的学科",
+      "研究慢性病在人群中的分布和影响分布的因素，以及防制对策的学科",
+      "研究疾病的诊断、治疗以及预防措施实施的学科",
+      "流行病学是研究疾病和健康状态在人群中的分布及其影响因素，以及制订和评价预防、控制和消灭疾病及促进健康的策略与措施的科学"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0001"
+  },
+  {
+    "stem": "关于流行病学正确的是",
+    "options": [
+      "从个体的角度研究疾病和健康状况及其影响因素",
+      "只研究传染病的流行特征和防治措施",
+      "只研究慢性病的危险因素",
+      "研究人群中疾病和健康状况的分布及其影响因素",
+      "只研究疾病的防制措施"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0002"
+  },
+  {
+    "stem": "不是流行病学特征的是",
+    "options": [
+      "群体特征",
+      "以分布为起点的特征",
+      "以治疗疾病为主的特征",
+      "对比的特征",
+      "预防为主的特征"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0003"
+  },
+  {
+    "stem": "流行病学研究的观察法与实验法的根本区别在于",
+    "options": [
+      "设立对照组",
+      "不设立对照组",
+      "是否人为控制研究的条件",
+      "是否进行盲法",
+      "统计学检验"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0004"
+  },
+  {
+    "stem": "流行病学与临床医学的区别是",
+    "options": [
+      "在群体水平上研究疾病现象",
+      "研究疾病的病因学",
+      "提供诊断依据",
+      "不涉及药物治疗",
+      "不研究疾病的预后"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0005"
+  },
+  {
+    "stem": "流行病学的研究对象是",
+    "options": [
+      "病人",
+      "非病人",
+      "人群",
+      "个体",
+      "病原携带者"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0006"
+  },
+  {
+    "stem": "流行病学工作的三个阶段是",
+    "options": [
+      "描述分布、检验假设、验证假设",
+      "揭示现象、找出原因、提供措施",
+      "整理资料、分析资料、得出结论",
+      "观察性研究、实验性研究、理论性研究",
+      "筛查病人、确诊病人、治疗病人"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 9,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0007"
+  },
+  {
+    "stem": "流行病学的观察性研究不包括",
+    "options": [
+      "队列研究",
+      "病例对照研究",
+      "临床试验",
+      "现况调查",
+      "生态学研究"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0008"
+  },
+  {
+    "stem": "流行病学研究的基础是",
+    "options": [
+      "描述性研究",
+      "分析性研究",
+      "实验性研究",
+      "理论性研究",
+      "前瞻性研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0009"
+  },
+  {
+    "stem": "通过比较不同地区间的糖消耗量和肥胖发生率，分析高糖饮食与肥胖的相关性，可以采用",
+    "options": [
+      "横断面研究",
+      "生态学研究",
+      "队列研究",
+      "病例对照研究",
+      "临床试验的方法是"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0010"
+  },
+  {
+    "stem": "选择患宫颈癌的病人与同期住院的其他病人进行口服避孕药服药史的比较，探讨口服避",
+    "options": [
+      "横断面研究",
+      "生态学研究",
+      "队列研究",
+      "病例对照研究",
+      "临床试验孕药与宫颈癌的关系，属于的研究性质是"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0011"
+  },
+  {
+    "stem": "欲调查某市居民高血压患病情况，应采用的调查设计方法是",
+    "options": [
+      "横断面研究",
+      "生态学研究",
+      "队列研究",
+      "病例对照研究",
+      "临床试验"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0012"
+  },
+  {
+    "stem": "选取生育年龄的一个随机样本，按照是否服用避孕药进行分组，然后对所有人群随访10",
+    "options": [
+      "横断面研究",
+      "生态学研究",
+      "队列研究",
+      "病例对照研究",
+      "临床试验年，分析比较脑卒中的发病率，属于的研究性质是"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0013"
+  },
+  {
+    "stem": "探讨某新药治疗乳腺癌病人的效果应采用的研究设计是",
+    "options": [
+      "横断面研究",
+      "生态学研究",
+      "队列研究",
+      "病例对照研究",
+      "临床试验"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第一章 绪论",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 10,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0014"
+  },
+  {
+    "stem": "发病率的分子是一定期间内某暴露人口中某病的",
+    "options": [
+      "所有现患病例数",
+      "新发病例数",
+      "I旧病例数",
+      "现有感染的人数",
+      "因其死亡的人数"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 16,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0015"
+  },
+  {
+    "stem": "若要计算某年某地糖尿病的患病率，其分母应是",
+    "options": [
+      "该地总人口数",
+      "该地年平均人口数",
+      "该地年平均就诊人数",
+      "该地平均住院人数",
+      "该地参加体检人数"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0016"
+  },
+  {
+    "stem": "判断体力劳动者和脑力劳动者冠心病发病率的差别应该",
+    "options": [
+      "直观两组人群发病率",
+      "对两组发病率进行显著性检验",
+      "对两个率按年龄、性别等相关因素标化后再进行显著性检验",
+      "两组发病率无法比较",
+      "男女分别比较"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0017"
+  },
+  {
+    "stem": "某病患病率的定义是",
+    "options": [
+      "某病新发病例数/同期暴露人口数",
+      "某病曾患病的总人数/同期平均人口数",
+      "某病新旧病例数/同期平均人口数",
+      "所有疾病患病人数/年平均人口数",
+      "所有疾病患病人数/同期暴露人口数"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0018"
+  },
+  {
+    "stem": "对慢性病进行现况调查，最适合使用的指标是",
+    "options": [
+      "发病率",
+      "罹患率",
+      "患病率",
+      "感染率",
+      "死亡率"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0019"
+  },
+  {
+    "stem": "在分析食物中毒的可能原因时，最常用的指标是",
+    "options": [
+      "总发病率",
+      "二代发病率",
+      "患病率",
+      "病死率",
+      "吃不同食物者的罹患率"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0020"
+  },
+  {
+    "stem": "职业中毒及暴发调查中常用的测量指标是",
+    "options": [
+      "发病率",
+      "罹患率",
+      "患病率",
+      "病死率",
+      "死亡率"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0021"
+  },
+  {
+    "stem": "研究一种传染病在一个家庭或集体宿舍内传染力的大小时，应使用的指标是",
+    "options": [
+      "发病率",
+      "感染率",
+      "患病率",
+      "续发率",
+      "罹患率"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0022"
+  },
+  {
+    "stem": "反映疾病严重程度的指标是",
+    "options": [
+      "死亡率",
+      "病死率",
+      "发病率",
+      "感染率",
+      "罹患率"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0023"
+  },
+  {
+    "stem": "某病的病死率是指",
+    "options": [
+      "一定时期内，每十万人口中死于某病的病人的频率",
+      "一定时期内，在所有疾病病人中死于该病病人的频率",
+      "患某病的住院病人中因该病而死亡的频率",
+      "某人群中死于某种疾病病人的频率",
+      "一定时期内，患某种疾病的人群中因该病而死亡的频率"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 17,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0024"
+  },
+  {
+    "stem": "出生队列分析可正确地反映",
+    "options": [
+      "行为生活方式对疾病的影响",
+      "环境对疾病的影响",
+      "致病因子与年龄的关系",
+      "遗传因素对疾病的影响",
+      "心理因素对疾病的影响"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0025"
+  },
+  {
+    "stem": "对疾病进行时间、人群和地区分布的综合描述，最典型的研究方法是",
+    "options": [
+      "血清流行病学",
+      "分子流行病学",
+      "遗传流行病学",
+      "移民流行病学",
+      "理论流行病学"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0026"
+  },
+  {
+    "stem": "甲乙两地年龄标化死亡率相等，而甲地粗死亡率低，原因可能是",
+    "options": [
+      "两地人群有相同的年龄分布",
+      "甲地诊断比乙地更准确",
+      "甲地老年人比重高于乙地",
+      "甲地老年人比重低于乙地",
+      "乙地诊断比甲地更准确"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0027"
+  },
+  {
+    "stem": "据某高速公路交警统计，蓝色车辆较其他颜色的车辆出事故更多。因此，认为驾驶蓝色车比其他颜色的车发生事故的危险性更高，该结论",
+    "options": [
+      "正确",
+      "不正确，因为没有比较组",
+      "不正确，因为比较不是在率的基础上",
+      "不正确，因为没有进行统计学显著性检验",
+      "不正确，因为未用发病率"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0028"
+  },
+  {
+    "stem": "某村人口数为60万，对该村进行了一次高血压普查，共查出高血压病例180人，由此可得出",
+    "options": [
+      "该村高血压发病率为30/10万",
+      "该村高血压罹患率为30/10万",
+      "该村高血压患病率为30/10万",
+      "该村高血压续发率为30/10万",
+      "该村高血压累积发病率为30/10万"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0029"
+  },
+  {
+    "stem": "某种新疗法可以延长病人寿命，但不能治愈疾病，可能人群会出现",
+    "options": [
+      "该病发病率将增加",
+      "该病发病率将减少",
+      "该病患病率将增加",
+      "该病患病率将减少",
+      "该病发病率和患病率都减少"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0030"
+  },
+  {
+    "stem": "某医生检查了2000人的HBsAg携带情况，结果发现300人阳性，该调查最适合的描述指标是",
+    "options": [
+      "发病率",
+      "患病率",
+      "罹患率",
+      "感染率",
+      "生存率"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0031"
+  },
+  {
+    "stem": "某市历年流脑发病率在（12～22/10万之间，今年该市流脑的发病率为18/10万，那么该市流脑的流行强度为",
+    "options": [
+      "流行",
+      "暴发",
+      "大流行",
+      "散发",
+      "周期性"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 18,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0032"
+  },
+  {
+    "stem": "在一个城市里，甲型肝炎的发病率每年3～5月份有升高，这种现象称为疾病的",
+    "options": [
+      "周期性",
+      "暴发",
+      "流行",
+      "季节性",
+      "长期趋势"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0033"
+  },
+  {
+    "stem": "在我国20世纪20年代，猩红热重型病例多见，但近年来其发病率与死亡率均有明显降低，临床上大都为轻型病人，几乎无死亡病例。这是疾病在时间分布上表现出的",
+    "options": [
+      "短期波动",
+      "季节性升高",
+      "严格的季节性",
+      "周期性",
+      "长期趋势"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0034"
+  },
+  {
+    "stem": "时间分布属于短期波动的是",
+    "options": [
+      "2015年6月某市某幼儿园有85名幼儿发生食物中毒",
+      "夏秋季是我国北方地区流行性乙型脑炎的发病季节",
+      "在对易感儿童实施麻疹疫苗接种前，麻疹在人群中的流行规律为每隔一年流行一次",
+      "近年来，猩红热的发病率与死亡率均有明显下降",
+      "细菌性痢疾多见于夏秋季"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0035"
+  },
+  {
+    "stem": "时间分布表现为严格季节性的是",
+    "options": [
+      "2015年6月某市某幼儿园有85名幼儿发生食物中毒",
+      "夏秋季是我国北方地区流行性乙型脑炎的发病季节",
+      "在对易感儿童实施麻疹疫苗接种前，麻疹在人群中的流行规律为每隔一年流行一次",
+      "近年来，猩红热的发病率与死亡率均有明显下降",
+      "细菌性痢疾多见于夏秋季"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0036"
+  },
+  {
+    "stem": "时间分布特点表现出季节性升高的是",
+    "options": [
+      "2015年6月某市某幼儿园有85名幼儿发生食物中毒",
+      "夏秋季是我国北方地区流行性乙型脑炎的发病季节",
+      "在对易感儿童实施麻疹疫苗接种前，麻疹在人群中的流行规律为每隔一年流行一次",
+      "近年来，猩红热的发病率与死亡率均有明显下降",
+      "细菌性痢疾多见于夏秋季"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-full-0037"
+  },
+  {
+    "stem": "表现出周期性流行特征的是",
+    "options": [
+      "2015年6月某市某幼儿园有85名幼儿发生食物中毒",
+      "夏秋季是我国北方地区流行性乙型脑炎的发病季节",
+      "在对易感儿童实施麻疹疫苗接种前，麻疹在人群中的流行规律为每隔一年流行一次",
+      "近年来，猩红热的发病率与死亡率均有明显下降",
+      "细菌性痢疾多见于夏秋季"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-full-0038"
+  },
+  {
+    "stem": "属于长期变异的是",
+    "options": [
+      "2015年6月某市某幼儿园有85名幼儿发生食物中毒",
+      "夏秋季是我国北方地区流行性乙型脑炎的发病季节",
+      "在对易感儿童实施麻疹疫苗接种前，麻疹在人群中的流行规律为每隔一年流行一次",
+      "近年来，猩红热的发病率与死亡率均有明显下降",
+      "细菌性痢疾多见于夏秋季"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-full-0039"
+  },
+  {
+    "stem": "反映人群分布的是",
+    "options": [
+      "石棉工人中间皮瘤、肺癌及胃肠癌的发生率高于其他职业人群",
+      "肺癌的人群分布表现出城市高于农村",
+      "因诊断水平的提高使患病率升高",
+      "流行性乙型脑炎和脊髓灰质炎多为隐性感染",
+      "流行性感冒常在冬春季节流行"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-full-0040"
+  },
+  {
+    "stem": "反映地区分布的是",
+    "options": [
+      "石棉工人中间皮瘤、肺癌及胃肠癌的发生率高于其他职业人群",
+      "肺癌的人群分布表现出城市高于农村",
+      "因诊断水平的提高使患病率升高",
+      "流行性乙型脑炎和脊髓灰质炎多为隐性感染",
+      "流行性感冒常在冬春季节流行"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-full-0041"
+  },
+  {
+    "stem": "反映时间分布的是",
+    "options": [
+      "石棉工人中间皮瘤、肺癌及胃肠癌的发生率高于其他职业人群",
+      "肺癌的人群分布表现出城市高于农村",
+      "因诊断水平的提高使患病率升高",
+      "流行性乙型脑炎和脊髓灰质炎多为隐性感染",
+      "流行性感冒常在冬春季节流行"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第二章 疾病的分布",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 19,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-full-0042"
+  },
+  {
+    "stem": "下列因果联系方式是正确而完整的是",
+    "options": [
+      "单因单果",
+      "单因多果",
+      "多因单果",
+      "多因多果",
+      "直接和间接病因链"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 25,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0043"
+  },
+  {
+    "stem": "关于必要病因的论述正确的是",
+    "options": [
+      "肥胖是高血压的必要病因",
+      "艾滋病病毒（HIV）感染是艾滋病（AIDS）的必要病因",
+      "必要病因的致病概率大于95%",
+      "必要病因的致病概率小于5%",
+      "必要病因的致病性较强"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 25,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0044"
+  },
+  {
+    "stem": "假如某因素暴露与某病关系的病例对照研究结果中0R值为0.29（0.07～0.65），最可能的解释是",
+    "options": [
+      "该因素与该病无关联",
+      "该因素可能是该病的保护因素",
+      "该因素可能是该病的致病因素",
+      "该因素可能是该病的致病因素，但作用不大",
+      "该因素不是该病的致病因素"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 25,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0045"
+  },
+  {
+    "stem": "流行病学的病因是指",
+    "options": [
+      "存在时必定引起疾病的因素",
+      "对疾病发生必不可少的因素",
+      "疾病发生机制中的生物因素",
+      "使得疾病发生概率升高的因素",
+      "引起疾病发生的诸多因素"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0046"
+  },
+  {
+    "stem": "疾病轮状模型的外环是指",
+    "options": [
+      "环境",
+      "遗传因子",
+      "宿主",
+      "生物环境",
+      "社会环境"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0047"
+  },
+  {
+    "stem": "病因研究的主要推理方法包括",
+    "options": [
+      "提出和验证假设的方法",
+      "假设演绎法和Mill准则",
+      "科学实验四法",
+      "一般演绎方法",
+      "猜测和求证方法"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0048"
+  },
+  {
+    "stem": "下列研究设计类型中因果论证强度由强至弱的排列正确的是",
+    "options": [
+      "随机对照实验、单组时间序列实验、多组时间序列实验、无对照前后比较实验",
+      "随机对照实验、病例对照研究、嵌套队列中的病例对照研究、生态学研究",
+      "前瞻队列研究、嵌套队列中的病例对照研究、新病例病例对照研究、横断面研究",
+      "历史队列研究、前瞻队列、新病例病例对照研究、横断面研究",
+      "实验性研究、分析性研究、描述性研究、理论流行病学研究"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0049"
+  },
+  {
+    "stem": "不是病因推断标准的是",
+    "options": [
+      "生物学上言之成理",
+      "因先于果",
+      "致病因素与疾病一一对应",
+      "因素的分布与疾病的分布一致",
+      "关联强度较大"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0050"
+  },
+  {
+    "stem": "在建立病因假设的时候，所用的逻辑思维法则通常不包括",
+    "options": [
+      "求同法",
+      "求异法",
+      "共变法",
+      "演绎法",
+      "排除法"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0051"
+  },
+  {
+    "stem": "某种因素与疾病两个事件都与另外一种因素有联系，由此导致两个事件间出现的统计学上的关联是",
+    "options": [
+      "偶然关联",
+      "继发关联",
+      "人为关联",
+      "直接因果关联",
+      "统计学关联"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0052"
+  },
+  {
+    "stem": "在因果推断的过程中，判定某因素与某病的因果关联时，必须满足的是",
+    "options": [
+      "关联的时序性",
+      "剂量-反应关系",
+      "关联的可重复性",
+      "关联的强度",
+      "实验证据"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0053"
+  },
+  {
+    "stem": "因果关联是指",
+    "options": [
+      "某一暴露因素与疾病发生有很强的统计学关联",
+      "某一暴露因素与疾病发生有时间先后的无偏关联",
+      "某一暴露因素与疾病发生存在时间先后的直接关联",
+      "某一暴露因素与疾病发生有空间上的相伴存在",
+      "某一暴露因素与疾病发生在排除偏倚后仍存在关联"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 26,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0054"
+  },
+  {
+    "stem": "假设演绎法，推出的经验证据成立，则",
+    "options": [
+      "假设可能成立",
+      "假设必定成立",
+      "假设尚不能成立",
+      "假设本身难以推论",
+      "假设尚待更多证据"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0055"
+  },
+  {
+    "stem": "从疾病生态学的角度来看，与疾病发生有关的三大因素是",
+    "options": [
+      "病人、病原携带者、非病人",
+      "遗传、营养、身体锻炼",
+      "易感性、传播途径、传染源",
+      "宿主、环境、病原物",
+      "理化因素、生物学因素、社会经济因素"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0056"
+  },
+  {
+    "stem": "判断因果联系时的必要条件是",
+    "options": [
+      "联系的合理性",
+      "联系的强度",
+      "联系的一致性",
+      "时间顺序，即先“因”后“果”",
+      "联系的剂量·反应关系"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0057"
+  },
+  {
+    "stem": "夏季因气温高，雨量多，蚊媒密度升高而引起的蚊媒传染病的流行属于A在流行病学三角模型中环境因素不变，病因比重增加",
+    "options": [
+      "宿主因素发生变化，宿主比重增加",
+      "病因、宿主、环境三要素保持动态平衡",
+      "环境因素发生变化，导致病因比重增加",
+      "环境因素发生变化，导致宿主比重增加"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0058"
+  },
+  {
+    "stem": "在病因学上，轮状模型与三角模型相比，其主要的不同点是",
+    "options": [
+      "更强调影响疾病发生的三要素",
+      "有差别地看待疾病的三要素",
+      "强调环境及环境与机体的密切关系",
+      "更强调特异性病原学说",
+      "更强调环境的作用"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0059"
+  },
+  {
+    "stem": "流行病学探讨病因的一般程序是",
+    "options": [
+      "从人为联系到统计学联系",
+      "从间接联系到统计学联系",
+      "从间接联系到因果联系",
+      "从统计学联系到因果联系",
+      "从人为联系到因果联系"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0060"
+  },
+  {
+    "stem": "在一次食物中毒的暴发调查中，发现虽然中毒者年龄、性别、宿舍、就餐桌次等均不同，但所有病人均食用过凉拌牛肉，所以该食物被怀疑是导致食物中毒的危险因素。这种建立假说的方法属于",
+    "options": [
+      "共变法",
+      "求异法",
+      "求同法",
+      "类推法",
+      "剩余法"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 27,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0061"
+  },
+  {
+    "stem": "联邦德国在1961年对反应停采取干预措施后，儿童先天畸形的发生率也下降，这符合病因判定标准中的",
+    "options": [
+      "时间顺序的证据",
+      "关联强度的证据",
+      "可重复性证据",
+      "合理性证据",
+      "终止效应的证据"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第三章 病因与病因推断",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 28,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0062"
+  },
+  {
+    "stem": "描述性研究具有以下哪项特征",
+    "options": [
+      "以个体为单位收集和分析资料",
+      "选择不同性质的人群进行对比",
+      "通过随机抽样的方式获得被调查人群",
+      "描述疾病分布的特点，可提供疾病的病因线索",
+      "可以验证病因假设"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 32,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0063"
+  },
+  {
+    "stem": "描述性研究主要适用于",
+    "options": [
+      "确定病因",
+      "疾病分布调查",
+      "预防效果研究",
+      "确定疾病危险因素",
+      "疾病自然史研究"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 32,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0064"
+  },
+  {
+    "stem": "关于现况研究的优点正确的是",
+    "options": [
+      "可以确定疾病的病因",
+      "调查时可以测定多种因素",
+      "抽样调查时样本量都比较小",
+      "不存在幸存者偏倚",
+      "调查偏倚较少"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 32,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0065"
+  },
+  {
+    "stem": "下列不属于现况研究目的的是",
+    "options": [
+      "揭示人群患病状况",
+      "提供疾病致病因素的线索",
+      "分析疾病危险因素",
+      "确定高危人群",
+      "对疾病监测等资料质量评价"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0066"
+  },
+  {
+    "stem": "以群体为单位分析和研究的方法是",
+    "options": [
+      "监测",
+      "个案调查",
+      "现况研究",
+      "生态学研究",
+      "暴发调查"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0067"
+  },
+  {
+    "stem": "抽样调查的特点不包括",
+    "options": [
+      "不适用于患病率比较低的疾病",
+      "调查进度快、工作量相对较少",
+      "设计实施较复杂",
+      "样本量小",
+      "用样本统计量估计总体参数"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0068"
+  },
+  {
+    "stem": "为保证样本能反映总体状况，在分析时需考虑",
+    "options": [
+      "调查对象变异是否较大",
+      "样本量是否足够大",
+      "样本是否具有代表性",
+      "抽样方法是否可行",
+      "以上都是"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0069"
+  },
+  {
+    "stem": "关于样本量的叙述正确的是",
+    "options": [
+      "样本量宜大不宜小",
+      "样本量越大资料越准确",
+      "样本量足量就好",
+      "样本量大小由调查可行性决定",
+      "样本量估计不能采用经验法"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0070"
+  },
+  {
+    "stem": "能够实现早期发现和治疗病人的方法是",
+    "options": [
+      "普查",
+      "抽样调查",
+      "生态学研究",
+      "纵向研究",
+      "个案调查"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0071"
+  },
+  {
+    "stem": "抽样调查中，抽样误差从小到大的顺序是",
+    "options": [
+      "整群抽样、分层抽样、系统抽样、单纯随机抽样",
+      "整群抽样、单纯随机抽样、分层抽样、系统抽样",
+      "分层抽样、系统抽样、单纯随机抽样、整群抽样",
+      "分层抽样、系统抽样、整群抽样、单纯随机抽样",
+      "系统抽样、单纯随机抽样、整群抽样、分层抽样"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0072"
+  },
+  {
+    "stem": "抽样方法不包括",
+    "options": [
+      "单纯随机抽样",
+      "系统抽样",
+      "分层抽样",
+      "整群抽样",
+      "随意抽样"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0073"
+  },
+  {
+    "stem": "关于普查的目的不正确的是",
+    "options": [
+      "早期发现病例",
+      "检验病因",
+      "了解疾病的分布",
+      "为病因研究提供线索",
+      "为开展疾病防制提供依据"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 33,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0074"
+  },
+  {
+    "stem": "以下符合生态学研究的特点是",
+    "options": [
+      "属于分析流行病学",
+      "以个体为观察分析单位",
+      "群体水平上研究因素与疾病之间的关系",
+      "确定病因",
+      "以上均不是"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0075"
+  },
+  {
+    "stem": "根据现况调查资料可以计算出",
+    "options": [
+      "发病率",
+      "患病率",
+      "死亡率",
+      "治愈率",
+      "病死率"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0076"
+  },
+  {
+    "stem": "现况研究一般不包括的偏倚是",
+    "options": [
+      "幸存者偏倚",
+      "回忆偏倚",
+      "无应答偏倚",
+      "信息偏倚",
+      "失访偏倚"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0077"
+  },
+  {
+    "stem": "个案调查的步骤与内容包括",
+    "options": [
+      "核实诊断",
+      "确定传染源及可能的传播途径",
+      "确定疾病传播范围",
+      "登记全部接触者",
+      "以上都是"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0078"
+  },
+  {
+    "stem": "流行病学医师进行社区诊断最常用的流行病学方法是",
+    "options": [
+      "病例系列研究",
+      "横断面研究",
+      "生态学研究",
+      "队列研究",
+      "纵向研究"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0079"
+  },
+  {
+    "stem": "与现况研究样本量的大小无关的因素是",
+    "options": [
+      "预期现患率",
+      "发病率",
+      "允许误差",
+      "把握度",
+      "变异度"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0080"
+  },
+  {
+    "stem": "预调查某市居民高血压患病情况，应采用的调查设计方法是",
+    "options": [
+      "所有医院病例报告",
+      "生态学研究",
+      "全市住院或门诊病人普查",
+      "全市住院或门诊病人抽样调查",
+      "现况调查"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0081"
+  },
+  {
+    "stem": "某地区为调查中、小学生近视率，以及在不同年级、城乡中的分布状况，在全区40所中、小学中进行抽样调查，较合理的抽样方法是",
+    "options": [
+      "采用整群抽样的方法",
+      "采用分层抽样的方法",
+      "先整群抽样，再分层抽样",
+      "先分层抽样，再整群抽样",
+      "以上均不对"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第四章 描述性研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 34,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0082"
+  },
+  {
+    "stem": "为检验病因假设，队列研究最初选择的队列应该是",
+    "options": [
+      "患所研究疾病的人",
+      "不患所研究疾病的人",
+      "具有病因因素的人",
+      "不具有病因因素的人",
+      "具有所研究疾病家族史的人"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 40,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0083"
+  },
+  {
+    "stem": "队列研究中研究对象应选择",
+    "options": [
+      "在患所研究疾病者中选择有、无某种暴露因素的两个组",
+      "在患所研究疾病者中选择有某种暴露因素的为一组，在无该病者中选择无该种暴露因素的为另一组",
+      "在无所研究疾病者中选择有某种暴露因素的为一组，在有该病者中选择无该暴露因素的为另一组",
+      "在无所研究疾病者中，选择有、无某种暴露因素的两个组",
+      "任选有无暴露的两个组"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 40,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0084"
+  },
+  {
+    "stem": "关于历史性队列研究，说法错误的是",
+    "options": [
+      "观察方向是从“因”到“果”",
+      "观察方向是从“果”到“因”",
+      "应有完整可靠的过去某段时间内研究对象的暴露资料",
+      "应有完整可靠的过去某段时间内研究对象的结局资料",
+      "多用于具有特殊暴露的职业人群的职业病研究"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 40,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0085"
+  },
+  {
+    "stem": "队列研究中暴露人群不能选自",
+    "options": [
+      "职业人群",
+      "特殊暴露人群",
+      "一般人群",
+      "有组织的人群团体",
+      "患有所研究疾病的人群"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0086"
+  },
+  {
+    "stem": "关于队列研究，说法正确的是",
+    "options": [
+      "不能计算相对危险度",
+      "不能计算特异危险度",
+      "只能计算比值比来估计相对危险度",
+      "既可计算相对危险度，又可计算特异危险度",
+      "只能计算特异危险度来估计相对危险度"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0087"
+  },
+  {
+    "stem": "从方法学角度，队列研究属于",
+    "options": [
+      "相关性研究",
+      "描述性研究",
+      "分析性研究",
+      "实验性研究",
+      "理论性研究"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0088"
+  },
+  {
+    "stem": "评价某致病因素对总人群某病危害程度的指标是",
+    "options": [
+      "RR",
+      "AR",
+      "PAR",
+      "AR%",
+      "EF"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0089"
+  },
+  {
+    "stem": "队列研究中最常见的偏倚是",
+    "options": [
+      "人院率偏倚",
+      "现患-新发病例偏倚",
+      "失访偏倚",
+      "无应答偏倚",
+      "错误分类偏倚"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0090"
+  },
+  {
+    "stem": "队列研究的缺点是",
+    "options": [
+      "资料靠回忆提供，可能存在偏倚",
+      "观察时间长，费用高",
+      "研究的暴露是人为给予的",
+      "不适用于单因多果疾病的病因研究",
+      "因果时间顺序不清楚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0091"
+  },
+  {
+    "stem": "有关队列研究与实验性研究相同点的叙述，错误的是",
+    "options": [
+      "均需给予人为的干预措施",
+      "均需设立对照组",
+      "均是由因及果的研究方法",
+      "均可能产生失访偏倚",
+      "均是前瞻性研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0092"
+  },
+  {
+    "stem": "在一所医院的300名吸烟男医师中，有100人主动戒烟，200人继续吸烟，研究者进行了20年的随访观察，比较两组医师肺癌的发生与死亡情况。这种研究属于",
+    "options": [
+      "实验性研究",
+      "病例对照研究",
+      "描述性研究",
+      "队列研究",
+      "理论性研究"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 41,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0093"
+  },
+  {
+    "stem": "某项队列研究得出的病因分值为90%，说法正确的是",
+    "options": [
+      "暴露人群中发病或死亡90%归因于暴露因素",
+      "暴露人群中发病或死亡10%归因于暴露因素",
+      "暴露组的发病危险是对照组的90%",
+      "对照组的发病危险是暴露组的90%",
+      "总人群中发病或死亡90%归因于暴露因素"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0094"
+  },
+  {
+    "stem": "某研究得出某因素与疾病的关系RR=1，95%可信区间为0.7～1.5，这意味着",
+    "options": [
+      "该RR值95%的可能是错误的",
+      "该RR值在0.7～1.5之间的机会为95%",
+      "该RR值说明该因素与疾病无关，而95%可信区间说明有联系",
+      "存在偏倚的可能性为95%",
+      "RR值正负联系均存在"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0095"
+  },
+  {
+    "stem": "1945一1975年，观察到接触同位素的1000名女工中有20人发生骨癌，同期1000名未接触同位素的女工中有4人发生骨癌。正确结论是",
+    "options": [
+      "接触同位素患骨癌的相对危险度=（20/1000）-（4/1000）",
+      "接触同位素患骨癌的相对危险度=（20/4）-（980/996）",
+      "接触同位素患骨癌的相对危险度=（20/1000）/（4/1000）",
+      "接触同位素患骨癌的相对危险度=（4/1000）/（20/1000）",
+      "接触同位素患骨癌的相对危险度=（20/4）/（980/996）"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0096"
+  },
+  {
+    "stem": "一项吸烟与膀胱癌关系的前瞻性队列研究结果显示，男性吸烟者膀胱癌发病率为48.0/10万，不吸烟者发病率为25.4/10万，则归因危险度为",
+    "options": [
+      "1.89/10万",
+      "22.6/10万",
+      "48.0/10万",
+      "0.53",
+      "1.89"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0097"
+  },
+  {
+    "stem": "在一项吸烟与肺癌关系的队列研究中，吸烟者肺癌死亡率为0.96%，不吸烟者为0.07%，一般人群为0.56%，则人群归因危险度为",
+    "options": [
+      "0.40%",
+      "0.49%",
+      "0.89%",
+      "87.5%",
+      "92.7%"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0098"
+  },
+  {
+    "stem": "已知吸烟者肺癌死亡率为0.96%，不吸烟者为0.07%。如果某人群吸烟率为55%，肺癌死亡率为0.56%。，则该人群中完全由吸烟引起的肺癌死亡率占该人群肺癌死亡率的比重是",
+    "options": [
+      "41.7%",
+      "71.4%",
+      "87.5%",
+      "92.7%",
+      "93.2%"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0099"
+  },
+  {
+    "stem": "一项饮酒与冠心病关系的队列研究结果显示：RR=4.5，对该结果的最恰当的解释是",
+    "options": [
+      "饮酒组发生冠心病的危险显著高于对照组",
+      "冠心病组饮酒的比例显著高于对照组",
+      "饮酒组发生冠心病的危险比对照组增高4.5倍",
+      "饮酒组发生冠心病的危险是对照组的4.5倍",
+      "冠心病组中饮酒的比例是对照组的4.5倍"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 42,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0100"
+  },
+  {
+    "stem": "某妇产医院临床医师询问并记录孕妇在孕期的吸烟情况，随访观察并分析孕期吸烟与新生儿低出生体重的联系，这种研究的类型是",
+    "options": [
+      "现况研究",
+      "横断面研究",
+      "病例对照研究",
+      "队列研究",
+      "临床试验"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0101"
+  },
+  {
+    "stem": "某研究者进行了一项关于脂肪摄人与男性前列腺癌关系的队列研究，选择高脂肪和低脂肪摄人者各100名，随访10年，高脂肪摄人组中有10人发生前列腺癌，低脂肪摄人组中有5人发生前列腺癌，RR的95%可信区间是0.95～3.52，假设α=0.05，推论正确的是",
+    "options": [
+      "高脂肪摄人与前列腺癌发病率升高之间的关联有统计学意义",
+      "高脂肪摄人与前列腺癌发病率降低之间的关联有统计学意义",
+      "可以在95%的可信度上认为高脂摄人降低患前列腺癌的危险",
+      "可以在95%的可信度上认为高脂摄入升高患前列腺癌的危险",
+      "尚不能认为前列腺癌发病率与脂肪摄入水平之间关联有统计学意义"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0102"
+  },
+  {
+    "stem": "欲说明人群中由于高盐饮食所致高血压病危险的比例时，应选用的指标是",
+    "options": [
+      "人群归因危险度百分比",
+      "归因危险度百分比",
+      "归因危险度",
+      "相对危险度",
+      "比值比"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0103"
+  },
+  {
+    "stem": "若某因素与某疾病的因果关系已经确定，那么为了探讨该因素对暴露者和全人群该病发病绝对影响的大小，应选用的指标分别是",
+    "options": [
+      "AR和PAR",
+      "AR和RR",
+      "RR和AR",
+      "AR%和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0104"
+  },
+  {
+    "stem": "在一项队列研究中，非吸烟组肺癌和冠心病的死亡率分别为10/10万和100/10万；20岁以前开始吸烟组为60/10万和150/10万，20岁以后开始吸烟组为40/10万和130/10万。论述错误的是",
+    "options": [
+      "两个吸烟组吸烟导致肺癌的相对危险度均大于冠心病的相对危险度",
+      "吸烟者患肺癌的相对危险度为5.0，患冠心病的相对危险度为1.4",
+      "两个吸烟组吸烟导致肺癌和冠心病的特异危险度相等",
+      "两个吸烟组吸烟导致肺癌和冠心病的AR%不相等",
+      "吸烟开始年龄与肺癌和冠心病的死亡率有关"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-full-0105"
+  },
+  {
+    "stem": "如果某因素导致A病的归因危险度大于导致B病的归因危险度，假定联系是因果联系，则可以认为",
+    "options": [
+      "暴露于该因素者患A病的相对危险度大于患B病的相对危险度",
+      "患A病者暴露于该因素的概率大于患B病者",
+      "该因素与A病的病因学联系比与B病的病因学联系强",
+      "暴露者除去暴露因素后，预防A病的效果好于B病",
+      "暴露者除去暴露因素后，预防A病的效果差于B病"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 43,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-full-0106"
+  },
+  {
+    "stem": "队列研究中，以观察人年数为分母计算的疾病频率指标是",
+    "options": [
+      "累积发病率",
+      "发病密度",
+      "病死率",
+      "现患率",
+      "死亡率"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-full-0107"
+  },
+  {
+    "stem": "队列研究中，以观察开始时的人口数为分母计算的疾病频率指标是",
+    "options": [
+      "累积发病率",
+      "发病密度",
+      "病死率",
+      "现患率",
+      "死亡率"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-full-0108"
+  },
+  {
+    "stem": "表明暴露组发病率与非暴露组发病率之差的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-full-0109"
+  },
+  {
+    "stem": "表明暴露组发病率与非暴露组发病率之比的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-full-0110"
+  },
+  {
+    "stem": "欲了解总人群发病率中归因于暴露部分的比例时，常用的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 29,
+    "id": "lib-epi-full-0111"
+  },
+  {
+    "stem": "欲了解暴露人群发病率中归因于暴露部分的比例时，常用的指标是",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "人群归因危险度",
+      "人群归因危险度百分比"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 30,
+    "id": "lib-epi-full-0112"
+  },
+  {
+    "stem": "反映与非暴露相比暴露生物学效应（致病作用）的指标是",
+    "options": [
+      "RR和AR",
+      "AR和PAR",
+      "RR和PAR",
+      "AR和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 31,
+    "id": "lib-epi-full-0113"
+  },
+  {
+    "stem": "评价某暴露因素对总人群某病危害程度的指标是",
+    "options": [
+      "RR和AR",
+      "AR和PAR",
+      "RR和PAR",
+      "AR和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 32,
+    "id": "lib-epi-full-0114"
+  },
+  {
+    "stem": "与人群中暴露比例有关的指标是",
+    "options": [
+      "RR和AR",
+      "AR和PAR",
+      "RR和PAR",
+      "AR和PAR%",
+      "PAR和PAR%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第五章 队列研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 44,
+    "reviewStatus": "draft",
+    "ocrNumber": 33,
+    "id": "lib-epi-full-0115"
+  },
+  {
+    "stem": "病例对照研究属于",
+    "options": [
+      "描述性研究",
+      "随访性研究",
+      "观察性研究",
+      "干预性研究",
+      "临床试验研究"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0116"
+  },
+  {
+    "stem": "在病例对照研究中",
+    "options": [
+      "研究对象可能失访",
+      "有时可以计算相对危险度",
+      "可进行罕见的因素研究",
+      "可进行罕见疾病的研究",
+      "可能出现霍桑效应"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0117"
+  },
+  {
+    "stem": "病例对照研究中，选择新病例的优点是",
+    "options": [
+      "需要的样本较小",
+      "保密性问题较少",
+      "可以减小回忆偏倚",
+      "费用较低",
+      "便于发现病例"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0118"
+  },
+  {
+    "stem": "病例对照研究的基本特征是研究者必须",
+    "options": [
+      "在研究人群发病或死亡发生前就开始研究，同时确定暴露状况",
+      "根据疾病发生前是否存在某暴露因素对人群分组，并调查其暴露因素的改变",
+      "在研究开始时就分清人群的暴露情况",
+      "选择病例和合适的对照，并确定病例组的暴露状况与对照组间是否存在差异",
+      "比较研究对象中暴露组和非暴露组人口特征"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0119"
+  },
+  {
+    "stem": "通过病例对照研究，可以得到",
+    "options": [
+      "发病率",
+      "罹患率",
+      "暴露比例",
+      "患病率",
+      "死亡率"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0120"
+  },
+  {
+    "stem": "在匹配病例对照研究中，有时因为病例较难获得，为了增加研究的效率常用1:M匹配。M的取值一般不超过",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0121"
+  },
+  {
+    "stem": "病例对照研究中病例选择的基本原则是",
+    "options": [
+      "病例组应从医院中选择其确诊的所研究疾病的病例",
+      "病例组应是具有危险因素暴露史者",
+      "病例组应是不患其他疾病的人",
+      "病例组应是无危险因素暴露史者",
+      "病例组选择时应不考虑是否有危险因素暴露史"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0122"
+  },
+  {
+    "stem": "以医院为基础的病例对照研究，最容易出现的偏倚是",
+    "options": [
+      "信息偏倚",
+      "选择偏倚",
+      "混杂偏倚",
+      "分类偏倚",
+      "诊断偏倚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0123"
+  },
+  {
+    "stem": "病例对照研究中匹配设计可以控制的偏倚是",
+    "options": [
+      "选择偏倚",
+      "错分偏倚",
+      "回忆偏倚",
+      "失访偏倚",
+      "混杂偏倚"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 52,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0124"
+  },
+  {
+    "stem": "在病例对照研究中，若从一般人群选病例，则不会出现",
+    "options": [
+      "容易寻找对照",
+      "工作较难进行",
+      "可能有较高的无应答率",
+      "结果外推性较好",
+      "选择偏倚较大"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0125"
+  },
+  {
+    "stem": "病例对照研究中关于选择病例的方法，叙述正确的是",
+    "options": [
+      "应符合公认、统一、明确的诊断标准",
+      "为保证病例诊断一致，应从同一医院选择全部对象",
+      "最好是现患病例",
+      "应尽量选择具有某种可疑危险因素的病例",
+      "最好选择较典型的重病例"
+    ],
+    "answer": [],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft-answer-missing",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0126"
+  },
+  {
+    "stem": "为筛选冠心病发病的相关影响因素，最适合的研究方法是",
+    "options": [
+      "前瞻性队列研究",
+      "病例对照研究",
+      "回顾性队列研究",
+      "社区干预实验",
+      "暴发调查"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0127"
+  },
+  {
+    "stem": "在一项病例对照研究中，计算出某研究因素0R值的95%的可信区间为0.2～1.8，那么该研究因素可能为",
+    "options": [
+      "无关因素",
+      "保护因素",
+      "有害因素",
+      "危险因素",
+      "相关因素"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0128"
+  },
+  {
+    "stem": "某项病例对照研究得出的病因分值为90%，下列说法正确的是",
+    "options": [
+      "暴露人群中发病或死亡90%归因于暴露因素",
+      "暴露人群中发病或死亡10%归因于暴露因素",
+      "暴露组的发病危险是对照组的90倍",
+      "暴露组的发病危险是对照组的10倍",
+      "暴露组与非暴露组的率差为90%"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0129"
+  },
+  {
+    "stem": "一项病例对照研究的200名病例中有暴露史者为160名，而210名对照中有70名具有暴露史，那么暴露者的发病率为",
+    "options": [
+      "33.3%",
+      "48.8%",
+      "69.6%",
+      "80.0%",
+      "无法计算"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0130"
+  },
+  {
+    "stem": "病例对照研究得到某因素与某病的OR值（95%C1)为0.36（0.09～0.88），可以理解为",
+    "options": [
+      "该因素与该病无关联",
+      "该因素可能是该病的保护因素",
+      "该因素可能是该病的致病因素",
+      "该因素可能是该病的致病因素，但作用不大",
+      "该因素不是该病的保护因素"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0131"
+  },
+  {
+    "stem": "有关服用某药与肾结石关系的-项病例对照研究显示，P>0.05，OR=1.19，95%CI：",
+    "options": [
+      "病例组服药率显著高于对照组",
+      "服药组发生肾结石的危险明显大于对照组",
+      "对照组发生肾结石的可能性明显大于服药组",
+      "未服药者发生肾结石的可能性明显大于服药者",
+      "肾结石与服用该药无关"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 53,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0132"
+  },
+  {
+    "stem": "假定夫妻不和睦的男外科大夫有较高的手术事故发生率，用病例对照研究来检验此假设，合适的对照为",
+    "options": [
+      "未出事故的男外科大夫",
+      "不是外科大夫的男性",
+      "夫妻和睦的男外科大夫",
+      "夫妻和睦的不是外科大夫的男性",
+      "未出事故的外科大夫之妻"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 54,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0133"
+  },
+  {
+    "stem": "一项雌激素与冠心病关系的配对病例对照研究共包括100对研究对象，病例与对照均有雌激素暴露史37对，均无暴露史9对，病例有暴露史而对照无暴露史45对，0R为",
+    "options": [
+      "1.2",
+      "3",
+      "4.1",
+      "5",
+      "5.3"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 54,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0134"
+  },
+  {
+    "stem": "一项高血压发病危险因素的成组病例对照研究结果表明，在360例病例中252例为吸烟者，而320例对照中102例为吸烟者，请问吸烟与高血压的OR值为",
+    "options": [
+      "252/360",
+      "102/108",
+      "102/320",
+      "（252×218)/（102×108)",
+      "（252×320)/（102×360）"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 54,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0135"
+  },
+  {
+    "stem": "某研究结果显示，某因素与疾病间的关系0R=1.3，95%CI为0.8～1.9，这意味着",
+    "options": [
+      "总体OR值95%可能有错",
+      "总体OR值在0.8～1.9的机会为95%",
+      "总体OR值说明该因素与疾病有关",
+      "存在偏倚的可能性为95%",
+      "OR值正负关联均存在"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 54,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0136"
+  },
+  {
+    "stem": "某地进行了一项关于脂肪摄人与乳腺癌关系的病例对照研究，选择乳腺癌病人和非乳腺癌病人各100名，调查其既往饮食中脂肪摄人量，病例组中有65人为高脂饮食，对照组有30人亦为高脂饮食。比值比及其95%可信区间是0R=4.33（2.43～7.73），假设α水平是0.05，那么，下列推论正确的是",
+    "options": [
+      "低脂肪摄人增加乳腺癌的患病风险",
+      "高脂肪摄人降低乳腺癌的患病风险",
+      "可以在95%的可信度上认为高脂摄入降低患乳腺癌的危险",
+      "可以在95%的可信度上认为高脂摄人升高患乳腺癌的危险",
+      "尚不能认为乳腺癌的发病率与脂肪摄人水平之间关联有统计学意义"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 54,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0137"
+  },
+  {
+    "stem": "某研究表明，70%的宫颈癌病人可检出人乳头瘤病毒感染，而无宫颈癌的对照组只有10%可检出人乳头瘤病毒感染，据此可认为人乳头瘤病毒是宫颈癌的病因，那么此结论",
+    "options": [
+      "正确",
+      "不正确，因为不是用率来比较",
+      "不正确，因为无对照组",
+      "不正确，因为未进行显著性检验",
+      "不正确，因为不能区分两者的时间关系"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 54,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-full-0138"
+  },
+  {
+    "stem": "根据某医院对300例肺癌住院病人的分析，吸烟者占80%，不吸烟者仅为20%，提示吸烟者易患肺癌，此结论",
+    "options": [
+      "正确，因为这是病人的吸烟率",
+      "错误，因为没有P值",
+      "错误，因为只是一个医院的资料，代表性不够",
+      "错误，因为只有病例组的吸烟比例，未设立对照组",
+      "吸烟者肺癌发生率是不吸烟者的4倍"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-full-0139"
+  },
+  {
+    "stem": "已知性别与吸烟相关，不同性别发生肺癌的频率不同。在探讨吸烟与肺癌关系的病例对照研究中，对照组中女性占80%，而病例组女性占20%，这可能会造成",
+    "options": [
+      "选择偏倚",
+      "信息偏倚",
+      "混杂偏倚",
+      "错分偏倚",
+      "观察偏倚"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-full-0140"
+  },
+  {
+    "stem": "在糖尿病的病因研究中，选择100名糖尿病病人，同时选择200名在年龄、性别、职业和受教育程度方面相似的非糖尿病病人，然后比较两组肥胖的比例。这是一种",
+    "options": [
+      "病例对照研究",
+      "回顾性队列研究",
+      "前瞻性队列研究",
+      "生态学研究",
+      "实验性研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-full-0141"
+  },
+  {
+    "stem": "某地进行了一项关于脂肪摄人与乳腺癌关系的病例对照研究，选择了乳腺癌病人和非",
+    "options": [
+      "相同",
+      "高估",
+      "低估",
+      "颠倒",
+      "不能确定乳腺癌病人为研究对象，调查其饮食中脂肪摄人量。病例组由于疾病减少了高脂食品的摄人，若高脂饮食确实可增加发生乳腺癌的危险，那么研究结果估计的相对危险度与真实的危险度相比是"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-full-0142"
+  },
+  {
+    "stem": "研究表明吸烟可增加胃溃疡的发病风险。在吸烟与胃癌关系的病例对照研究中，如果对",
+    "options": [
+      "相同",
+      "高估",
+      "低估",
+      "颠倒",
+      "不能确定照组中选人过多的胃溃疡病人，那么吸烟与胃癌的关联强度可能会被"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-full-0143"
+  },
+  {
+    "stem": "一项病例对照研究，旨在探讨母亲妊娠期的各种暴露史与新生儿先天性畸形之间的联系。",
+    "options": [
+      "现患-新发病例偏倚",
+      "失访偏倚",
+      "信息偏倚",
+      "混杂偏倚",
+      "随机误差在调查时，那些生畸形孩子的母亲由于心理压力常常隐瞒怀孕时的饮酒情况，而对照组儿童的母亲报告的情况就较准确。这种情况可能带来"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 29,
+    "id": "lib-epi-full-0144"
+  },
+  {
+    "stem": "在病例对照研究中，选用了一年内某社区的现患病例作研究对象，最常见的偏倚是",
+    "options": [
+      "现患-新发病例偏倚",
+      "失访偏倚",
+      "信息偏倚",
+      "混杂偏倚",
+      "随机误差"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第六章 病例对照研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 55,
+    "reviewStatus": "draft",
+    "ocrNumber": 30,
+    "id": "lib-epi-full-0145"
+  },
+  {
+    "stem": "随机对照实验不具备的特征是",
+    "options": [
+      "设立了对照组",
+      "人为地给予实验组以干预措施",
+      "实验中运用盲法",
+      "运用OR进行分析",
+      "运用RR进行分析"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 62,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0146"
+  },
+  {
+    "stem": "与前瞻性队列研究相比，流行病学实验研究的不同是",
+    "options": [
+      "研究方向由果到因",
+      "设立了对照组",
+      "给实验组实施了干预措施",
+      "可以用于病因推断",
+      "可以用于验证病因假设"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 62,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0147"
+  },
+  {
+    "stem": "流行病学实验中研究对象的随机分组是为了",
+    "options": [
+      "增加参与研究对象的依从性",
+      "提高试验组和对照组的可比性",
+      "使试验组和对照组都受益",
+      "在试验期间对干预病人和对照病人的处理与评价相似",
+      "提高实验的敏感性"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 62,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0148"
+  },
+  {
+    "stem": "流行病学实验中盲法的应用是为了",
+    "options": [
+      "增加参与研究对象的依从性",
+      "减少选择偏倚",
+      "减少信息偏倚",
+      "减少混杂偏倚",
+      "降低实验难度"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0149"
+  },
+  {
+    "stem": "随机选择5岁组儿童100名进行免疫接种预防试验，观察了8年，结果表明有70%的免疫接种者未患所研究的疾病。对此研究，下列观点正确的是",
+    "options": [
+      "该疫苗有效，因为有70%的儿童未患此疾病",
+      "该疫苗无效，因为有30%的儿童患了此疾病",
+      "不能下结论，因为未进行统计学检验",
+      "不能下结论，因为观察时间不够长",
+      "不能下结论，因为未设对照组"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0150"
+  },
+  {
+    "stem": "假设研制出一种预防丙型肝炎的疫苗，要评价此疫苗的效果，应选择作为研究对象的人群是",
+    "options": [
+      "已感染有丙型肝炎的人群",
+      "丙型肝炎发病率低的人群",
+      "曾感染过丙型肝炎，且体内有抗体的人群",
+      "丙型肝炎的高危人群",
+      "曾感染过乙型肝炎的人群"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0151"
+  },
+  {
+    "stem": "不是临床疗效实验设计时应掌握的原则是",
+    "options": [
+      "对照的原则",
+      "随机化的原则",
+      "随意化的原则",
+      "盲法的原则",
+      "重复的原则"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0152"
+  },
+  {
+    "stem": "为了减少人为主观因素对试验结果造成的影响，在临床试验中可遵循",
+    "options": [
+      "对照的原则",
+      "随机化的原则",
+      "随意化的原则",
+      "盲法的原则",
+      "重复的原则"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0153"
+  },
+  {
+    "stem": "为了排除非研究因素的干扰，在临床试验设计中可遵循",
+    "options": [
+      "对照的原则",
+      "随机化的原则",
+      "随意化的原则",
+      "盲法的原则",
+      "重复的原则"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0154"
+  },
+  {
+    "stem": "试验组额外接受了与实验效应一致的其他处理措施，从而造成人为夸大疗效的假象，这种",
+    "options": [
+      "选择性偏倚",
+      "测量偏倚",
+      "干扰",
+      "沾染",
+      "依从性偏倚称为"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0155"
+  },
+  {
+    "stem": "对照组病人额外地接受了试验组药物，造成人为夸大对照组疗效，从而低估效应的现象，",
+    "options": [
+      "选择性偏倚",
+      "测量偏倚",
+      "干扰",
+      "沾染",
+      "依从性这种偏倚称为"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第七章 实验流行病学研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 63,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0156"
+  },
+  {
+    "stem": "关于筛检说法不正确的是",
+    "options": [
+      "可在表面健康的人群中发现可能的疾病病人",
+      "可发现高危人群",
+      "可使病人和非病人明确分开",
+      "可了解疾病的自然史",
+      "可提高筛检出病人的生存率"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0157"
+  },
+  {
+    "stem": "关于筛检和诊断试验说法不正确的是",
+    "options": [
+      "筛检的目标人群是表面健康的人群，而诊断的目前人群是疑似病人",
+      "筛检要求疾病的自然史清晰，诊断的疾病自然史可以不清晰",
+      "筛检和诊断试验均强调对疾病判断的准确，减少漏诊",
+      "对筛检出来的不同结局应有行之有效的处理方案",
+      "诊断可指导治疗，判断预后"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0158"
+  },
+  {
+    "stem": "当筛检或诊断试验的疾病误诊后果较严重时，要求试验具有较高的",
+    "options": [
+      "灵敏度",
+      "特异度",
+      "约登指数",
+      "阳性似然比",
+      "阴性预测值"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0159"
+  },
+  {
+    "stem": "为了提高某诊断试验的阳性预测值，可采取",
+    "options": [
+      "增加该诊断试验的灵敏度",
+      "增加诊断的人数",
+      "选择高危人群",
+      "对试验结果更认真判断",
+      "与其他试验方法进行并联使用"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0160"
+  },
+  {
+    "stem": "可用来评价诊断试验方法准确性的指标是",
+    "options": [
+      "灵敏度、特异度和阳性似然比",
+      "相关系数、正确指数与似然比",
+      "相关系数、变异系数和Kappa值",
+      "预测值、约登指数和符合率",
+      "预测值、似然比和Kappa值"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0161"
+  },
+  {
+    "stem": "“金标准”（goldstandard）指的是",
+    "options": [
+      "当前临床医学界公认的诊断疾病的最快速的方法",
+      "当前临床医学界公认的诊断疾病的最贵的方法",
+      "当前临床医学界公认的诊断疾病的最先进的方法",
+      "当前临床医学界公认的诊断疾病的最便宜的方法",
+      "当前临床医学界公认的诊断疾病的最可靠方法"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0162"
+  },
+  {
+    "stem": "可用评价筛检或诊断试验生物学效果评价的指标有",
+    "options": [
+      "灵敏度、特异度、符合率",
+      "Kappa值、阳性预测值、保护率",
+      "约登指数、保护率、复发率",
+      "死亡率、复发率、生存时间",
+      "发病率、预测值、似然比"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 70,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0163"
+  },
+  {
+    "stem": "有关串联联合试验的陈述中，说法正确的是",
+    "options": [
+      "串联试验可以提高灵敏度",
+      "串联试验可以提高特异度",
+      "串联试验可以提高正确指数",
+      "串联试验可以提高阴性预测值",
+      "串联试验可以发现更多病人"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 71,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0164"
+  },
+  {
+    "stem": "在某社区开展糖尿病筛检，有25%的糖尿病病人的空腹血糖试验阴性者通过糖耐量试验确诊为糖尿病，试问该值所反映的是空腹血糖试验的",
+    "options": [
+      "灵敏度",
+      "特异度",
+      "假阳性率",
+      "假阴性率",
+      "一致率"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 71,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0165"
+  },
+  {
+    "stem": "比较筛检对甲状腺癌和肺癌生存期的影响，可能会导致",
+    "options": [
+      "领先时间偏倚",
+      "病程长短偏倚",
+      "选择性偏倚",
+      "错误分类偏倚",
+      "信息偏倚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 71,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0166"
+  },
+  {
+    "stem": "肠息肉是大肠癌的危险因素，通过结肠镜筛查可以发现大肠息肉并行切除术，这样首先使大肠癌的",
+    "options": [
+      "发病率降低",
+      "病死率降低",
+      "死亡率降低",
+      "早诊率增加",
+      "生存率增加"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 71,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0167"
+  },
+  {
+    "stem": "能说明乳腺癌筛查长期生物学效果的证据是",
+    "options": [
+      "开始开展筛查地区人群的发病率低于未筛查人群",
+      "开展筛查地区的乳腺癌诊断年龄低于未筛查地区",
+      "参与筛查人群乳腺癌的发病率低于未参与筛查人群",
+      "参与筛查人群乳腺癌患病率低于未参与筛查人群",
+      "随着筛查项目时间延长，乳腺癌发病率持续上升"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 71,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0168"
+  },
+  {
+    "stem": "某医师对连续就诊的230例急性胸痛怀疑心肌梗死的病人检测血清肌钙蛋白，同时行冠状动脉造影并随访。冠状动脉造影和随访结果作为诊断心肌梗死的“金标准”。其结果如表8-3所示，该资料不能计算的指标是表8-3血清肌钙蛋白对急性心肌梗死诊断效果“金标准”血清肌钙蛋白合计（例）阳性（例）阴性（例）阳性(例)1116117阴性(例)4109113合计115115230",
+    "options": [
+      "约登指数",
+      "Kappa值",
+      "阳性预测值",
+      "一致率",
+      "发病率"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 71,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0169"
+  },
+  {
+    "stem": "1990一2010年，某地区采用空腹血糖试验对糖尿病进行筛检。在这段时间糖尿病的患病率增加了一倍，受到患病率的影响而发生相应改变的空腹血糖筛检试验特征是",
+    "options": [
+      "灵敏度增加",
+      "特异度增加",
+      "领先时间增加",
+      "阳性预测值增加",
+      "阴性预测值增加"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0170"
+  },
+  {
+    "stem": "一灵敏度和特异度分别为98%和99%的妊娠试验，用于检查10000名育龄期妇女，假设有0.1%的受检者真正怀孕，该试验的阳性预测值是",
+    "options": [
+      "0.1",
+      "49.7%",
+      "89.0%",
+      "47.9%",
+      "8.9%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0171"
+  },
+  {
+    "stem": "青光眼病人的眼压约在2.9～5.6kPa范围，无青光眼者的眼压约在1.9～3.5kPa范围内，若筛检标准定为2.9kPa，该试验灵敏度与特异度的关系为",
+    "options": [
+      "灵敏度高，特异度低",
+      "灵敏度低，特异度高",
+      "灵敏度和特异度均高",
+      "灵敏度和特异度均低",
+      "根据上述资料无法确定"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0172"
+  },
+  {
+    "stem": "下列说法中，不正确的是",
+    "options": [
+      "ROC曲线可表示灵敏度与特异度的关系",
+      "ROC曲线常被用来直观地确定诊断试验的最佳分界值",
+      "ROC曲线是以灵敏度为纵坐标，特异度为横坐标",
+      "用ROC曲线确定的最佳分界值处，其灵敏度和特异度均较好",
+      "ROC曲线下面积最大的试验其真实性最佳"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0173"
+  },
+  {
+    "stem": "一系列试验中所有试验均为阳性，其结果才判为阳性的是",
+    "options": [
+      "并联",
+      "串联",
+      "可靠性",
+      "阳性预测值",
+      "阴性预测值"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0174"
+  },
+  {
+    "stem": "一系列试验中所有试验均为阴性，其结果才判为阴性的是",
+    "options": [
+      "并联",
+      "串联",
+      "可靠性",
+      "阳性预测值",
+      "阴性预测值"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0175"
+  },
+  {
+    "stem": "运用同一方法在相同条件下重复多次试验得到相同结果的程度是",
+    "options": [
+      "并联",
+      "串联",
+      "可靠性",
+      "阳性预测值",
+      "阴性预测值"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0176"
+  },
+  {
+    "stem": "受试者试验结果阳性时患该病的可能性是",
+    "options": [
+      "并联",
+      "串联",
+      "可靠性",
+      "阳性预测值",
+      "阴性预测值"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0177"
+  },
+  {
+    "stem": "受试者试验结果阴性时无该病的可能性是",
+    "options": [
+      "并联",
+      "串联",
+      "可靠性",
+      "阳性预测值",
+      "阴性预测值"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第八章 筛检与诊断试验",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 72,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0178"
+  },
+  {
+    "stem": "预后研究与病因研究的差别在于",
+    "options": [
+      "预后研究可以采用生存分析，而病因研究则不能",
+      "预后研究可以不用因果推断，而病因研究则必须",
+      "预后研究必须是前瞻性的，而病因研究则不必是",
+      "预后研究可以做预测，而病因研究则不能",
+      "预后研究可以找干预靶点，而病因研究则不能"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0179"
+  },
+  {
+    "stem": "在预测标志物研究中不需要的是",
+    "options": [
+      "生存分析",
+      "前瞻性研究",
+      "因果推断",
+      "控制混杂",
+      "控制信息偏倚"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0180"
+  },
+  {
+    "stem": "生存分析与相对危险度分析的差别在于生存分析另外考虑了",
+    "options": [
+      "生存的时间",
+      "生存的条件",
+      "生存的质量",
+      "是否是队列研究",
+      "是否是实验研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0181"
+  },
+  {
+    "stem": "在队列研究设计的预后研究，选用外对照具有的特点是",
+    "options": [
+      "选择的对照具有更好的可比性",
+      "选择的对照具有更好的外推性",
+      "适用于稀有的特殊结局研究",
+      "适用于稀有的预后因素研究",
+      "适用于暴露率过高的预后因素研究"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0182"
+  },
+  {
+    "stem": "不是预后研究结局评估指标的是",
+    "options": [
+      "治愈率",
+      "好转率",
+      "致残率",
+      "病死率",
+      "死亡专率"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0183"
+  },
+  {
+    "stem": "预后研究中，集合偏倚产生的原因是",
+    "options": [
+      "集中了不同来源的病例",
+      "集中了不同类型的病例",
+      "集中了不同病情的病例",
+      "病例的来源与研究因素相关",
+      "病例的来源不包括研究因素"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0184"
+  },
+  {
+    "stem": "在预后研究中最难控制零点偏倚的研究设计是",
+    "options": [
+      "随机对照试验",
+      "疾病专病队列研究",
+      "病例对照研究",
+      "病例队列研究",
+      "横断面研究"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0185"
+  },
+  {
+    "stem": "在预后研究中最适合价格昂贵的预测标志物研究的研究设计是",
+    "options": [
+      "随机对照试验",
+      "疾病专病队列研究",
+      "病例对照研究",
+      "病例队列研究",
+      "横断面研究"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 80,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0186"
+  },
+  {
+    "stem": "基于行政区域疾病登记资料（如肿瘤登记）抽样，最适合控制的偏倚是",
+    "options": [
+      "零点偏倚",
+      "集合偏倚",
+      "失访偏倚",
+      "报告偏倚",
+      "回忆偏倚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0187"
+  },
+  {
+    "stem": "队列研究最容易控制的偏倚是",
+    "options": [
+      "零点偏倚",
+      "集合偏倚",
+      "失访偏倚",
+      "报告偏倚",
+      "回忆偏倚"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0188"
+  },
+  {
+    "stem": "基于首发症状确定病程可以控制的偏倚是",
+    "options": [
+      "零点偏倚",
+      "集合偏倚",
+      "失访偏倚",
+      "报告偏倚",
+      "回忆偏倚"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0189"
+  },
+  {
+    "stem": "属于肿瘤病人的预后标志物而非发病影响因素的是",
+    "options": [
+      "TNM分期",
+      "肿瘤细胞的分化程度",
+      "病人的行为",
+      "病程",
+      "有无持续的相关病毒感染"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0190"
+  },
+  {
+    "stem": "疾病的预后研究可以解答的问题包括",
+    "options": [
+      "了解疾病的自然史",
+      "寻找新的预测标志物",
+      "比较多种治疗措施对疾病治疗的效果",
+      "探索可干预的路径",
+      "探索影响治疗效果的因素"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0191"
+  },
+  {
+    "stem": "采用队列研究设计的疾病预后研究资料分析时常用的指标有",
+    "options": [
+      "相对危险度",
+      "归因危险度",
+      "归因危险度百分比",
+      "中位生存时间",
+      "比值比"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0192"
+  },
+  {
+    "stem": "生存分析常用的统计方法有",
+    "options": [
+      "Logistic回归分析",
+      "Cox回归分析",
+      "多重线性回归分析",
+      "寿命表法",
+      "Kaplan-Meier法"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0193"
+  },
+  {
+    "stem": "与生存质量有关的因素包括",
+    "options": [
+      "病人的健康状态",
+      "病人的期望值",
+      "病人的文化背景",
+      "病人的病情",
+      "病人的认知能力"
+    ],
+    "answer": [],
+    "type": "single",
+    "chapter": "第九章 疾病预后研究",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 81,
+    "reviewStatus": "draft-answer-missing",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0194"
+  },
+  {
+    "stem": "我国现有法定报告传染病有",
+    "options": [
+      "39种",
+      "25种",
+      "37种",
+      "22种",
+      "35种"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 90,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0195"
+  },
+  {
+    "stem": "传染源是指",
+    "options": [
+      "能够携带病原体造成疾病传播的动物",
+      "体内有病原体的人和动物",
+      "体内有病原体繁殖的人和动物",
+      "能排出病原体的人和动物",
+      "体内有病原体繁殖并能排出病原体的人和动物"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 90,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0196"
+  },
+  {
+    "stem": "自然疫源性疾病是指",
+    "options": [
+      "病原体能通过动物传播到人的疾病",
+      "病原体不依靠人而能在自然界野生动物中生存繁殖，并只在一定条件下传给人和家畜的疾病",
+      "以动物作为传染源，并在动物间传播的疾病",
+      "病原体不依靠人而能在自然界野生动物中生存繁殖的疾病",
+      "经常在某一地区某一人群呈地方性流行的疾病"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 90,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0197"
+  },
+  {
+    "stem": "疫源地范围的大小取决于",
+    "options": [
+      "传染源的活动范围，排出病原体的数量及毒力",
+      "传染源的数量、活动范围及周围人口数多少",
+      "传染源的活动范围、传播途径的特点和周围人群的免疫状态等",
+      "传染源的活动范围、数量和周围人群的免疫状态",
+      "传播途径的特点和病原体所能涉及的范围"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 90,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0198"
+  },
+  {
+    "stem": "构成传染病流行过程的基本单位是",
+    "options": [
+      "疫源地",
+      "疫点",
+      "疫区",
+      "发病家庭",
+      "传染源"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0199"
+  },
+  {
+    "stem": "下列论述中正确的是",
+    "options": [
+      "人群易感性增高，就可导致疾病的暴发或流行",
+      "人群易感性降低，就可终止疾病的流行",
+      "人群人口数增加，就使人群易感性增高",
+      "人群人口数减少，就使人群易感性降低",
+      "人群易感性增高，只是为一次流行或暴发准备了条件"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0200"
+  },
+  {
+    "stem": "传染病流行的“基本环节”是",
+    "options": [
+      "传染源、传播机制、易感者",
+      "传染源、传染途径、易感者",
+      "病因、环境、宿主",
+      "病原体、传染途径、易感人群",
+      "传染源、传播途径、易感人群"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0201"
+  },
+  {
+    "stem": "消毒是清除或杀灭停留在外环境中的",
+    "options": [
+      "病原体",
+      "微生物",
+      "细菌",
+      "病毒",
+      "寄生虫"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0202"
+  },
+  {
+    "stem": "孕妇患风疹可能引起胎儿先天性畸形，这种传播病原体的方式称为",
+    "options": [
+      "上行性传播",
+      "医源性传播",
+      "水平传播",
+      "接触传播",
+      "经胎盘传播"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0203"
+  },
+  {
+    "stem": "防止传染病由国外传人的措施是",
+    "options": [
+      "国境卫生检疫",
+      "消毒",
+      "预防接种",
+      "疾病监测",
+      "卫生监督"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0204"
+  },
+  {
+    "stem": "影响和制约疾病流行的两因素是",
+    "options": [
+      "生物因素、气候因素",
+      "自然因素、社会因素",
+      "气候因素、地理因素",
+      "地理因素、心理因素",
+      "社会因素、环境因素"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0205"
+  },
+  {
+    "stem": "构成传染过程的必备因素是",
+    "options": [
+      "传染源、传播途径和易感人群",
+      "病原体和宿主（机体）",
+      "病原体、传播途径和易感者",
+      "微生物、媒介和宿主",
+      "病人、污染物和易感者"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0206"
+  },
+  {
+    "stem": "关于疫源地的论述正确的是",
+    "options": [
+      "疫源地即指传染源本身",
+      "疫源地指传染源所在的病家",
+      "疫源地指传染源所在的地区",
+      "疫源地指传染源排出病原体所波及的区域",
+      "疫源地即指传染源本身及其家人"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0207"
+  },
+  {
+    "stem": "关于感染谱流行病学意义的论述错误的是",
+    "options": [
+      "不同感染谱的传染病，其传染源管理的难度有差异",
+      "只有查清不同感染类型的所有传染源才能制订该病防制措施",
+      "显性感染为主的传染病便于疫情报告",
+      "单一隔离治疗显症病人起不到消灭传染源的作用",
+      "隐性感染为主的传染病难以执行传染源隔离措施"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 91,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0208"
+  },
+  {
+    "stem": "传染源痊愈、死亡或离开住所后对疫源地进行的一次彻底消毒称为",
+    "options": [
+      "彻底消毒",
+      "疫源地消毒",
+      "终末消毒",
+      "随时消毒",
+      "预防性消毒"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0209"
+  },
+  {
+    "stem": "可以抑制传染病流行的情景是",
+    "options": [
+      "人群数量减少",
+      "人群数量增加",
+      "人群免疫性降低",
+      "人群易感性降低",
+      "人群易感性升高"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0210"
+  },
+  {
+    "stem": "确定传染病接触者留验、检疫或医学观察的期限是根据该病的",
+    "options": [
+      "传染期",
+      "病原学分离培养的结果",
+      "潜伏期",
+      "前驱期",
+      "排毒期"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0211"
+  },
+  {
+    "stem": "确定传染病病人隔离期的依据是",
+    "options": [
+      "潜伏期",
+      "传染期",
+      "临床症状期",
+      "带菌期",
+      "带毒期"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0212"
+  },
+  {
+    "stem": "病人排出病原体的整个时期称为",
+    "options": [
+      "病原携带状态",
+      "传染期",
+      "潜伏期",
+      "前驱期",
+      "临床症状期"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0213"
+  },
+  {
+    "stem": "自病原体侵人机体到临床症状最早出现的一段时间称为",
+    "options": [
+      "传染期",
+      "潜伏期",
+      "前驱期",
+      "临床症状期",
+      "恢复期"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0214"
+  },
+  {
+    "stem": "下列说法中正确的是",
+    "options": [
+      "传染源存在时应当进行随时消毒",
+      "传染源存在时应当进行终末消毒",
+      "传染源存在时应当进行空气消毒",
+      "传染源存在时应当进行物理消毒",
+      "传染源存在时应当进行体表消毒"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0215"
+  },
+  {
+    "stem": "接种乙肝疫苗的同时，注射相应的丙种球蛋白，这种免疫称为",
+    "options": [
+      "自然主动免疫",
+      "自然被动免疫",
+      "人工主动免疫",
+      "人工被动免疫",
+      "自动被动免疫"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0216"
+  },
+  {
+    "stem": "消灭疫源地的条件不包括",
+    "options": [
+      "传染病病人被治愈或被移走",
+      "传染病病人已被隔离",
+      "传染源污染的外环境已得到最终的消毒",
+      "传染病的接触者得到被动免疫保护",
+      "所有接触者经过该病最长潜伏期后无续发病例发生"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 92,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-full-0217"
+  },
+  {
+    "stem": "评价疫苗预防接种效果的流行病学指标是",
+    "options": [
+      "患病率",
+      "续发率",
+      "保护率",
+      "死亡率",
+      "血清抗体阳转率"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-full-0218"
+  },
+  {
+    "stem": "某人因食用了受粪便污染的毛蚶而感染甲型肝炎，那么毛蚶是",
+    "options": [
+      "传染源",
+      "疫源地",
+      "存储宿主",
+      "传播因素",
+      "易感动物"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-full-0219"
+  },
+  {
+    "stem": "某大学生发热一周后就诊被确诊急性甲型病毒性肝炎而人院治疗，对其宿舍及周围环境应进行",
+    "options": [
+      "彻底消毒",
+      "疫区消毒",
+      "终末消毒",
+      "随时消毒",
+      "预防性消毒"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-full-0220"
+  },
+  {
+    "stem": "在研究麻疹疫苗预防麻疹效果时观察麻疹患儿的同胞接触者发病情况，得到下列资料，请问麻疹疫苗的保护率是接种情况人数发病例数全程接种4000400未接种1000400",
+    "options": [
+      "25%",
+      "40%",
+      "30%",
+      "90%",
+      "75%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-full-0221"
+  },
+  {
+    "stem": "病原体更换宿主的过程称为",
+    "options": [
+      "传播途径",
+      "传播过程",
+      "流行过程",
+      "传播机制",
+      "传染过程"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-full-0222"
+  },
+  {
+    "stem": "病原体由一个传染源传播到另一个易感者所经历的全过程是",
+    "options": [
+      "传播途径",
+      "传播过程",
+      "流行过程",
+      "传播机制",
+      "传染过程"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 29,
+    "id": "lib-epi-full-0223"
+  },
+  {
+    "stem": "一系列相互连接相继发生的疫源地构成",
+    "options": [
+      "传播途径",
+      "传播过程",
+      "流行过程",
+      "传播机制",
+      "传染过程"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 30,
+    "id": "lib-epi-full-0224"
+  },
+  {
+    "stem": "病原体进人机体后，与机体相互作用的过程是",
+    "options": [
+      "传播途径",
+      "传播过程",
+      "流行过程",
+      "传播机制",
+      "传染过程"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 31,
+    "id": "lib-epi-full-0225"
+  },
+  {
+    "stem": "属于垂直传播的是",
+    "options": [
+      "空气传播",
+      "经饮用水传播",
+      "分娩时传播",
+      "经食物传播",
+      "虫媒传播"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 93,
+    "reviewStatus": "draft",
+    "ocrNumber": 32,
+    "id": "lib-epi-full-0226"
+  },
+  {
+    "stem": "流行特征提示有共同进餐史的传播途径是",
+    "options": [
+      "空气传播",
+      "经饮用水传播",
+      "分娩时传播",
+      "经食物传播",
+      "虫媒传播"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 33,
+    "id": "lib-epi-full-0227"
+  },
+  {
+    "stem": "除哺乳婴儿外，发病无年龄、性别、职业差别的传播途径是",
+    "options": [
+      "空气传播",
+      "经饮用水传播",
+      "分娩时传播",
+      "经食物传播",
+      "虫媒传播"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 34,
+    "id": "lib-epi-full-0228"
+  },
+  {
+    "stem": "对留置甲肝病人的病房每天采取的防治措施是",
+    "options": [
+      "留验",
+      "预防性消毒",
+      "疫源地消毒",
+      "终末消毒",
+      "随时消毒"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 35,
+    "id": "lib-epi-full-0229"
+  },
+  {
+    "stem": "对甲类传染病的接触者应进行",
+    "options": [
+      "留验",
+      "预防性消毒",
+      "疫源地消毒",
+      "终末消毒",
+      "随时消毒"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 36,
+    "id": "lib-epi-full-0230"
+  },
+  {
+    "stem": "对现有或曾有传染源存在的场所进行的消毒是",
+    "options": [
+      "留验",
+      "预防性消毒",
+      "疫源地消毒",
+      "终末消毒",
+      "随时消毒"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 37,
+    "id": "lib-epi-full-0231"
+  },
+  {
+    "stem": "属于甲类传染病的是",
+    "options": [
+      "病毒性肝炎、脊髓灰质炎、人感染高致病性禽流感",
+      "流行性感冒（含甲型H1N1流感）流行性腮腺炎、风疹",
+      "鼠疫、传染性非典型肺炎",
+      "肺结核、麻风病",
+      "鼠疫、霍乱"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 38,
+    "id": "lib-epi-full-0232"
+  },
+  {
+    "stem": "属于乙类传染病的是",
+    "options": [
+      "病毒性肝炎、脊髓灰质炎、人感染高致病性禽流感",
+      "流行性感冒（含甲型H1N1流感）流行性腮腺炎、风疹",
+      "鼠疫、传染性非典型肺炎",
+      "肺结核、麻风病",
+      "鼠疫、霍乱"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 39,
+    "id": "lib-epi-full-0233"
+  },
+  {
+    "stem": "属于丙类传染病的是",
+    "options": [
+      "病毒性肝炎、脊髓灰质炎、人感染高致病性禽流感",
+      "流行性感冒（含甲型H1N1流感）流行性腮腺炎、风疹",
+      "鼠疫、传染性非典型肺炎",
+      "肺结核、麻风病",
+      "鼠疫、霍乱"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十章 传染病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 94,
+    "reviewStatus": "draft",
+    "ocrNumber": 40,
+    "id": "lib-epi-full-0234"
+  },
+  {
+    "stem": "关于疾病负担描述正确的是",
+    "options": [
+      "潜在寿命损失年可以用来评价超过期望寿命的死亡造成的疾病负担",
+      "应用潜在寿命损失年的前提是相同年龄个体的社会、经济价值是不同的",
+      "伤残调整寿命年包括因早死所致的寿命损失年和伤残所致的健康寿命损失年",
+      "疾病经济负担包括直接经济负担和间接经济负担。直接经济负担包括病人因病损失的工作时间、因病而降低工作能力引起的经济损失",
+      "20世纪80年代以前，疾病负担主要通过发病率、感染率、续发率、病死率、死因顺位等指标来测量"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 101,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0235"
+  },
+  {
+    "stem": "在高收入国家，男性因癌症死亡的主要原因为",
+    "options": [
+      "食管癌",
+      "肺癌",
+      "乳腺癌",
+      "结直肠癌",
+      "前列腺癌"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 101,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0236"
+  },
+  {
+    "stem": "关于我国脑卒中的流行情况，描述错误的是",
+    "options": [
+      "男性患病率低于女性",
+      "郊区患病率高于城市",
+      "标化患病率呈现由北向南、由东向西递减的趋势",
+      "从脑卒中死亡率来看，西藏最高，上海最低",
+      "脑卒中已成为中国居民第一位死因"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0237"
+  },
+  {
+    "stem": "与人乳头瘤病毒（HPV)感染有关的疾病是",
+    "options": [
+      "糖尿病",
+      "高血压",
+      "宫颈癌",
+      "乳腺癌",
+      "肝癌"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0238"
+  },
+  {
+    "stem": "发生风险与摄人食盐过多关系密切的疾病是",
+    "options": [
+      "糖尿病",
+      "肺癌",
+      "龋齿",
+      "肝癌",
+      "高血压"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0239"
+  },
+  {
+    "stem": "疾病的发生与食品中的黄曲霉毒素污染有较强关联的是",
+    "options": [
+      "肝癌",
+      "肺癌",
+      "糖尿病",
+      "心脏病",
+      "高血压"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0240"
+  },
+  {
+    "stem": "属于第一级预防措施的是",
+    "options": [
+      "环境整治",
+      "定期体检",
+      "规范化管理糖尿病病人",
+      "建立高血压病人健康档案",
+      "临终关怀"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0241"
+  },
+  {
+    "stem": "第二级预防是",
+    "options": [
+      "在疾病尚未发生时针对致病因子、可疑致病因子或相关因素所采取的措施",
+      "又称临床预防，是在疾病的后期为了减少疾病危害所采取的措施",
+      "防止病残和促进功能恢复，提高生存质量",
+      "早期发现、早期诊断和早期治疗疾病，防止或减缓疾病的发展",
+      "又称病因预防"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0242"
+  },
+  {
+    "stem": "提倡病人自我管理，属于预防措施中的",
+    "options": [
+      "第一级预防",
+      "第二级预防",
+      "第三级预防",
+      "个体预防",
+      "自我预防"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0243"
+  },
+  {
+    "stem": "绝大部分慢性病是由数量不多、已知和可以预防的危险因素造成的，其中最主要的因素是",
+    "options": [
+      "吸烟、缺乏身体活动和不合理膳食",
+      "吸烟、饮酒、交通事故、意外伤害",
+      "环境污染、病原体变异和不合理膳食",
+      "不良生活方式、不安全饮水和饮食以及遗传因素",
+      "心理因素、行为因素、遗传因素"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 102,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0244"
+  },
+  {
+    "stem": "关于慢性病危险因素的描述不正确的是",
+    "options": [
+      "在慢性病所致死亡中，约六分之一可归因于烟草暴露",
+      "与经常进行中等强度身体活动的人相比，缺乏运动的人死亡风险增加约20%～30%",
+      "盐摄入量是血压水平和心血管病发病风险的重要决定因素，约30%的高血压是由于摄人食盐过多导致的",
+      "饮酒会增加高血压、中风等疾病的发病风险，是导致过早死亡和伤残的一个主要危险因素",
+      "二手烟是很多慢性病的危险因素"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0245"
+  },
+  {
+    "stem": "一般说来，用于监测慢性病的两个重要手段是进行定期健康体检和筛检，这些手段主要是针对",
+    "options": [
+      "无症状的健康者",
+      "已确诊的慢性病病人",
+      "住院病人",
+      "有典型症状和体征的人",
+      "易感者"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0246"
+  },
+  {
+    "stem": "关于高危人群策略，正确的是",
+    "options": [
+      "涉及的通常是很多疾病共同的根本原因",
+      "覆盖人群范围广，成本低廉，是实现持久的全人群健康的必经之路",
+      "通过健康教育、健康促进和社区干预等方法，在人群中控制主要的危险因素",
+      "主要关注病因链近端的环节",
+      "主要关注病因链远端的环节"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0247"
+  },
+  {
+    "stem": "关于全人群策略，正确的是",
+    "options": [
+      "属于第一级预防的范畴",
+      "更易获得重视和偏爱",
+      "易产生“标签效应”",
+      "同时关注病因链近端和远端的环节",
+      "针对性和可操作性强，效果明确"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0248"
+  },
+  {
+    "stem": "仅次于吸烟，是造成肺癌的第二大原因的是",
+    "options": [
+      "室内空气污染",
+      "幽门螺杆菌感染",
+      "氢",
+      "石棉",
+      "慢性乙型肝炎"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0249"
+  },
+  {
+    "stem": "与间皮瘤发生风险增加有关的是",
+    "options": [
+      "室内空气污染",
+      "幽门螺杆菌感染",
+      "氢",
+      "石棉",
+      "慢性乙型肝炎"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0250"
+  },
+  {
+    "stem": "与胃癌发生风险增加有关的是",
+    "options": [
+      "室内空气污染",
+      "幽门螺杆菌感染",
+      "氢",
+      "石棉",
+      "慢性乙型肝炎"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0251"
+  },
+  {
+    "stem": "与慢性阻塞性肺病发生风险增加有关的是",
+    "options": [
+      "室内空气污染",
+      "幽门螺杆菌感染",
+      "氢",
+      "石棉",
+      "慢性乙型肝炎"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0252"
+  },
+  {
+    "stem": "与肝癌发生风险增加有关的是",
+    "options": [
+      "室内空气污染",
+      "幽门螺杆菌感染",
+      "氢",
+      "石棉",
+      "慢性乙型肝炎"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十一章 慢性非传染性疾病流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 103,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0253"
+  },
+  {
+    "stem": "下列有关疾病监测的论述中错误的是",
+    "options": [
+      "主动监测的结果要比被动监测准确",
+      "哨点监测的耗费要比常规报告高",
+      "监测病例的诊断要比实际病例简便",
+      "直接指标的获得要比间接指标困难",
+      "静态人群资料的处理要比动态人群简单"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 108,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0254"
+  },
+  {
+    "stem": "我国有关出生缺陷的信息，来源于",
+    "options": [
+      "主动监测",
+      "哨点监测",
+      "以人群为基础的监测系统",
+      "以实验室为基础的监测系统",
+      "以医院为基础的监测系统"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 108,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0255"
+  },
+  {
+    "stem": "根据疾病监测的定义，下面不正确的是",
+    "options": [
+      "疾病监测是一个连续的过程",
+      "疾病监测用来确定病因",
+      "疾病监测应对某病传播的可能性予以监测",
+      "疾病监测的目的是预防和控制疾病流行",
+      "疾病监测属于描述性研究"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0256"
+  },
+  {
+    "stem": "在长途汽车司机、暗等高危人群中进行HIV抗体筛检，了解艾滋病流行情况属于",
+    "options": [
+      "主动监测",
+      "被动监测",
+      "哨点监测",
+      "以实验室为基础的监测系统",
+      "以医院为基础的监测系统"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0257"
+  },
+  {
+    "stem": "疾病监测采用的方法属于",
+    "options": [
+      "描述性研究",
+      "分析性研究",
+      "实验性研究",
+      "理论性研究",
+      "基础性研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0258"
+  },
+  {
+    "stem": "不是疾病监测特点的是",
+    "options": [
+      "属于纵向研究",
+      "包括常规报告系统",
+      "可以反映疾病的动态变化",
+      "信息反馈是纵向进行的",
+      "信息是由原始资料经过处理后形成的"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0259"
+  },
+  {
+    "stem": "传染病监测的主要内容中不包括",
+    "options": [
+      "人口学资料",
+      "病原体型别、毒力、抗药性变异情况",
+      "人群免疫水平的测定",
+      "疫情信息",
+      "人群生活方式和行为危险因素监测"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0260"
+  },
+  {
+    "stem": "在行为危险因素监测的内容中不包括",
+    "options": [
+      "吸烟、饮酒",
+      "高脂、高盐饮食",
+      "抗体水平",
+      "缺乏体力活动",
+      "不安全性行为"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0261"
+  },
+  {
+    "stem": "主要是利用实验室方法对病原体或其他致病因素开展监测，属于",
+    "options": [
+      "人群为基础的监测",
+      "被动监测",
+      "常规报告",
+      "哨点监测",
+      "实验室为基础的监测"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0262"
+  },
+  {
+    "stem": "截止到2018年12月，我国法定报告的传染病种类有",
+    "options": [
+      "36种",
+      "37种",
+      "38种",
+      "39种",
+      "40种"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0263"
+  },
+  {
+    "stem": "我国伤害监测系统是以",
+    "options": [
+      "医院为基础的监测系统",
+      "社区为基础的监测系统",
+      "人群为基础的监测系统",
+      "实验室为基础的监测系统",
+      "急诊室为基础的监测系统"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0264"
+  },
+  {
+    "stem": "WHO提出的慢性病及其危险因素的三阶段监测是指",
+    "options": [
+      "发病和患病率监测、问卷调查和危险因素监测",
+      "问卷调查、身体测量和生化指标检测",
+      "问卷调查、体力活动测量和生化指标检测",
+      "问卷调查、发病监测和生化指标检测",
+      "问卷调查、患病监测和体格检查"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 109,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0265"
+  },
+  {
+    "stem": "评价报告单位参与率、监测机构报告率、监测工作方案的可行性及实施的难易程度、监测",
+    "options": [
+      "简便性",
+      "可接受性",
+      "及时性",
+      "代表性",
+      "敏感性人员的工作量及可承受度，属于"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0266"
+  },
+  {
+    "stem": "评价监测系统从发现疾病或卫生事件到将信息反馈给有关部门的时间，属于",
+    "options": [
+      "简便性",
+      "可接受性",
+      "及时性",
+      "代表性",
+      "敏感性"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0267"
+  },
+  {
+    "stem": "评价监测系统的收集资料、监测方法和运作简便易行的程度，属于",
+    "options": [
+      "简便性",
+      "可接受性",
+      "及时性",
+      "代表性",
+      "敏感性"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0268"
+  },
+  {
+    "stem": "评价监测系统发现公共卫生问题的能力，属于",
+    "options": [
+      "简便性",
+      "可接受性",
+      "及时性",
+      "代表性",
+      "敏感性"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0269"
+  },
+  {
+    "stem": "系统、持续地收集、分析临床明确诊断前能够指示疾病暴发的相关资料并做出合理解释，",
+    "options": [
+      "主动监测",
+      "被动监测",
+      "哨点监测",
+      "症状监测",
+      "常规报告以便据此开展公共卫生调查的监测方法是"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0270"
+  },
+  {
+    "stem": "根据特殊需要，由上级单位进行专题调查或要求下级单位严格按照规定收集资料的监",
+    "options": [
+      "主动监测",
+      "被动监测",
+      "哨点监测",
+      "症状监测",
+      "常规报告测是"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0271"
+  },
+  {
+    "stem": "由下级单位常规上报监测资料和数据，而上级单位被动接受的一种监测方法是",
+    "options": [
+      "主动监测",
+      "被动监测",
+      "哨点监测",
+      "症状监测",
+      "常规报告"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0272"
+  },
+  {
+    "stem": "为了达到特定目的，在经过选择的人群中设立哨点，用标准统一的方法开展的监测是",
+    "options": [
+      "主动监测",
+      "被动监测",
+      "哨点监测",
+      "症状监测",
+      "常规报告"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十二章 疾病监测",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 110,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0273"
+  },
+  {
+    "stem": "医院感染是指",
+    "options": [
+      "发生在门诊的感染",
+      "发生在住院部的感染",
+      "发生在病房的感染",
+      "发生在手术室的感染",
+      "发生在医院的感染"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 115,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0274"
+  },
+  {
+    "stem": "我国输血后发生的医院感染主要有",
+    "options": [
+      "乙型病毒性肝炎",
+      "甲型病毒性肝炎",
+      "疤疾",
+      "菌痢",
+      "流感"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 115,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0275"
+  },
+  {
+    "stem": "医院感染最常见的流行形式是",
+    "options": [
+      "散发",
+      "流行",
+      "暴发",
+      "大流行",
+      "持续性流行"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 115,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0276"
+  },
+  {
+    "stem": "医院感染分为内源性感染和外源性感染的主要依据是",
+    "options": [
+      "病人住院时间的长短",
+      "感染传播方式",
+      "病原体的来源",
+      "病原体的种类",
+      "病原体对药物的敏感性"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0277"
+  },
+  {
+    "stem": "医院感染监测收集资料的核心是",
+    "options": [
+      "发现感染病例",
+      "调查感染因素",
+      "计算感染率",
+      "计算病死率",
+      "分析抗生素使用情况"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0278"
+  },
+  {
+    "stem": "由鼠类污染仪器导致院内鼠伤寒沙门菌感染，其传染来源是",
+    "options": [
+      "动物",
+      "病人",
+      "病原携带者",
+      "仪器",
+      "注射器"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0279"
+  },
+  {
+    "stem": "住院病人由于手术输血得了乙型肝炎，其传染来源是",
+    "options": [
+      "医生",
+      "病人",
+      "病原携带者",
+      "手术器械",
+      "血液"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0280"
+  },
+  {
+    "stem": "引起乙型病毒性肝炎及艾滋病医院感染的主要传播途径是",
+    "options": [
+      "经血液及其制品传播",
+      "经水、食物传播",
+      "经空气飞沫传播",
+      "经日常生活接触传播",
+      "经生物媒介传播"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0281"
+  },
+  {
+    "stem": "易引起医院感染暴发的主要途径有",
+    "options": [
+      "经注射器",
+      "经手术",
+      "经空气飞沫传播",
+      "经生物媒介传播",
+      "经日常生活接触传播"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0282"
+  },
+  {
+    "stem": "一般来说，医院感染率较高的是",
+    "options": [
+      "大型医院",
+      "小型医院",
+      "门诊",
+      "校医室",
+      "中型医院"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0283"
+  },
+  {
+    "stem": "不是医院感染易感人群的是",
+    "options": [
+      "机体免疫功能严重受损者",
+      "接受各种介人性操作的病人",
+      "长期使用广谱抗菌药物者",
+      "手术时间或住院时间长的病人",
+      "偶因感冒到医院就诊的病人"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0284"
+  },
+  {
+    "stem": "医院感染暴发是指在医疗机构或其科室的病人中，短时间内发生多例以上同种同源感染病例的现象，该例数是",
+    "options": [
+      "1例",
+      "2例",
+      "3例",
+      "4例",
+      "5例"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0285"
+  },
+  {
+    "stem": "目标性监测是针对某类人群开展的医院感染及其危险因素的监测，该类人群是",
+    "options": [
+      "全部住院病人",
+      "门诊病人",
+      "医务人员",
+      "高危人群、高发感染部位",
+      "社区人群"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 116,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0286"
+  },
+  {
+    "stem": "一位胃出血病人，手术中输了医院提供的血液，输血后2个月出现肝区疼痛，转氨酶升高，HBsAg阳性，被诊断为急性乙型肝炎，该病人的感染属于",
+    "options": [
+      "自身感染",
+      "内源性感染",
+      "院外感染",
+      "医院感染",
+      "带人传染"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0287"
+  },
+  {
+    "stem": "一位住院病人，住院15日后出现类似伤寒症状，粪便培养鼠伤寒沙门菌阳性。该病人发病前同病室有一类似症状病人，两人有食物交换。该病人住院后发生的感染最可能是",
+    "options": [
+      "外源性感染",
+      "院外感染",
+      "带人感染",
+      "内源性感染",
+      "以上均不是"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0288"
+  },
+  {
+    "stem": "第15题的病人患病的最可能传播途径是",
+    "options": [
+      "经血液及其制品传播",
+      "经水、食物传播",
+      "经空气飞沫传播",
+      "经日常生活接触传播",
+      "经生物媒介传播"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0289"
+  },
+  {
+    "stem": "男性，58岁，因“急性蛛网膜下腔出血”于2月8日收人院，发热，39℃，偶有寒战，无咳嗽咳痰，大便正常，留置导尿管。体查：浅昏迷，口腔无白膜，颈软，心肺无异常，腹部平软无压痛，肝脾未扪及。检查：血WBC20×10，尿培养大肠埃希菌>10cfu/ml，血培养：大肠埃希菌药敏结果相同。该病人发生的感染最可能是",
+    "options": [
+      "医院感染",
+      "院外感染",
+      "带人感染",
+      "自身感染",
+      "以上均不是"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0290"
+  },
+  {
+    "stem": "第17题的病人最可能的感染类型是",
+    "options": [
+      "胃肠道感染",
+      "呼吸道感染",
+      "败血症",
+      "泌尿系感染",
+      "以上均不是"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0291"
+  },
+  {
+    "stem": "某医疗机构短时间内发生医院感染病例增多，并超过历年散发发病率水平的现象属于",
+    "options": [
+      "医院感染散发",
+      "医院感染暴发",
+      "医院感染续发",
+      "医院感染流行",
+      "医院感染聚集"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0292"
+  },
+  {
+    "stem": "某医疗机构短时间内发生3例以上同种同源感染病例的现象属于",
+    "options": [
+      "医院感染散发",
+      "医院感染暴发",
+      "医院感染续发",
+      "医院感染流行",
+      "医院感染聚集"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0293"
+  },
+  {
+    "stem": "某医疗机构医院感染病例的发生呈历年一般水平，各病例间在发病时间和地点方面无明",
+    "options": [
+      "医院感染散发",
+      "医院感染暴发",
+      "医院感染续发",
+      "医院感染流行",
+      "医院感染聚集显联系的散在发生，这属于"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十三章 医院感染",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 117,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0294"
+  },
+  {
+    "stem": "关于循证医学说法正确的是",
+    "options": [
+      "循证医学等同于系统评价",
+      "循证医学等同于meta分析",
+      "循证医学等同于临床流行病学",
+      "循证医学等同于精准医学",
+      "循证医学是最佳证据、临床经验和病人价值的结合"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 125,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0295"
+  },
+  {
+    "stem": "属于原始研究证据的是",
+    "options": [
+      "meta分析",
+      "文献综述",
+      "横断面研究",
+      "系统评价",
+      "卫生技术评估"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 125,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0296"
+  },
+  {
+    "stem": "关于系统评价文献的收集过程说法不正确的是",
+    "options": [
+      "有明确的文献检索策略",
+      "有明确的文献选择标准",
+      "注意收集各种语种发表的文献",
+      "采用多种渠道和系统的检索方法",
+      "可不收集灰色文献"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 125,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0297"
+  },
+  {
+    "stem": "系统评价属于",
+    "options": [
+      "观察性研究",
+      "理论性研究",
+      "实验性研究",
+      "实证研究",
+      "数学模型研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 125,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0298"
+  },
+  {
+    "stem": "下列属于系统评价定量分析方法的是",
+    "options": [
+      "贝叶斯meta-分析",
+      "meta-民族志",
+      "meta分析",
+      "框架分析法",
+      "扎根/根基理论"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 125,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0299"
+  },
+  {
+    "stem": "下列文献质量评价方法中，常用于评价RCT的是",
+    "options": [
+      "STROBE声明",
+      "Jadad计分法",
+      "QUADAS-2工具",
+      "EPPI-Center质量清单",
+      "JBIQARI质量清单"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 125,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0300"
+  },
+  {
+    "stem": "系统评价中异质性检验的目的是",
+    "options": [
+      "评价独立研究结果的可靠性",
+      "检验各独立研究的结果是否可合并",
+      "评价合并效应值的稳定性",
+      "增加统计学检验效能",
+      "分析合并效应值的语言偏倚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0301"
+  },
+  {
+    "stem": "异质性检验采用的统计量是",
+    "options": [
+      "F统计量",
+      "Q统计量",
+      "t统计量",
+      "H统计量",
+      "Z统计量"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0302"
+  },
+  {
+    "stem": "关于发表偏倚说法不正确的是",
+    "options": [
+      "通过漏斗图可大致判断是否存在发表偏倚",
+      "产生发表偏倚的主要原因是阳性研究结更容易被发表",
+      "严格设定文献的纳人排除标准可避免发表偏倚",
+      "尽量搜索未发表的阴性研究结果，可减少发表偏倚",
+      "可用失效安全系数来评价发表偏倚强度"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0303"
+  },
+  {
+    "stem": "说法不正确的是",
+    "options": [
+      "meta分析的本质是一种观察性研究",
+      "meta分析一般不分析各独立研究中每个观察对象的原始数据",
+      "报告meta分析结果时，可不考虑研究背景和实际意义",
+      "推广meta分析的结论时，应考虑对象的特征及依从性等",
+      "meta分析有可能得不出明确的结论"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0304"
+  },
+  {
+    "stem": "meta分析在合并各个独立研究结果前应进行",
+    "options": [
+      "相关性检验",
+      "异质性检验",
+      "回归分析",
+      "图示研究",
+      "标准化"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0305"
+  },
+  {
+    "stem": "meta分析中敏感性分析的目的是",
+    "options": [
+      "评价meta分析结果是否稳定",
+      "用于固定效应模型或随机效应模型的选择",
+      "用于文献纳人和剔除标准的制定",
+      "用于评价发表偏倚的大小",
+      "用于排除可能影响合并效应值大小的研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0306"
+  },
+  {
+    "stem": "失效安全数越大，表示",
+    "options": [
+      "meta分析的各个独立研究的同质性越好",
+      "meta分析的各个独立研究的同质性越差",
+      "meta分析的结果越稳定，结论被推翻的可能性越小",
+      "meta分析的结果越不稳定，结论被推翻的可能性越大",
+      "meta分析的结果可靠性不够，各个独立研究的可比性差"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0307"
+  },
+  {
+    "stem": "如果漏斗图呈明显的不对称，提示",
+    "options": [
+      "meta分析统计学检验效能不够",
+      "meta分析的各个独立研究的同质性差",
+      "meta分析的合并效应值没有统计学意义",
+      "meta分析可能存在发表偏倚",
+      "meta分析的结果更为可靠"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 126,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0308"
+  },
+  {
+    "stem": "系统评价的内部真实性评价，不需要考虑的因素有",
+    "options": [
+      "科研设计是否科学",
+      "诊断标准及纳人/排除标准是否适当",
+      "研究结果的观测方法和指标是否正确",
+      "研究对象依从性是否良好",
+      "研究结果是否具有普遍性"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0309"
+  },
+  {
+    "stem": "下列说法错误的是",
+    "options": [
+      "循证医学实践得到的最佳证据在应用时应因人而异",
+      "循证医学实践唯一强调的是证据",
+      "循证医学不等于meta分析",
+      "循证医学实践不一定会降低医疗费用",
+      "循证医学实践得到的证据并非一成不变"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0310"
+  },
+  {
+    "stem": "关于meta分析，以下说法不正确的是",
+    "options": [
+      "meta分析本质上是一种观察性研究",
+      "meta分析使用定量的方法综合同类研究结果的一种系统评价",
+      "采用随机效应模型能使meta分析的结果更加可靠",
+      "meta分析时，如果研究间异质性很大，应认真考虑异质性来源",
+      "亚组分析能使meta分析的结果更具有针对性"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0311"
+  },
+  {
+    "stem": "不是meta分析目的",
+    "options": [
+      "增加检验效能",
+      "提高效应量估计精度",
+      "计算合并效应",
+      "增大样本量",
+      "估计偏倚大小"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0312"
+  },
+  {
+    "stem": "meta分析合并效应量的结果常采用的表示方式是",
+    "options": [
+      "漏斗图",
+      "森林图",
+      "Q值",
+      "PRISMA清单",
+      "1指数"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0313"
+  },
+  {
+    "stem": "meta分析中，不能作为二分类变量合并效应量指标的是",
+    "options": [
+      "需要治疗的例数",
+      "标准化均数差",
+      "相对危险度",
+      "率差",
+      "比值比"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0314"
+  },
+  {
+    "stem": "妊娠期间患疤疾除引起母体贫血外，可导致婴儿低出生体重的发生。但对疤疾流行区的孕妇常规给予抗疤药预防婴儿低出生体重的效果尚不确定。为评价疤疾流行区预防性使用抗疤药对婴儿低出生体重的作用，某研究者拟开展meta分析。按照纳人排除标准进行检索文献，最终筛选出7篇符合要求的文献纳人分析。结果显示，合并RR=0.57，95%CI为0.46～0.72，P<0.001，研究得到的森林图如图14-1所示。（资料来源：GarnerP，GulmezogluAM.Drugsforpreventingmalariainpregnantwomen（Review).TheCochraneLibrary,2006,Issue4)AntimalarialdrugNodrugRiskRatioRiskRatioStudyorSubqroupEventsTotalEventsTotalWeightM-H,Fixed,95%CIM-H,Fixed,95%CIChallis2004192002720315.5%0.71[0.41,1.24]Cot19922387298517.0%0.77[0.49,1.23]Cot199565618659.7%0.39[0.17,0.91]Greenwood19898172151499.3%0.46[0.20,1.06]Ndyomugyenyi20007169151688.7%0.46[0.19,1.11]Parise1998i273252617019.8%0.54[0.33,0.90]Parise1998ii263312617019.9%0.51[0.31,0.86]Total(95%CI)13401010100.0%0.57[0.46,0.72]Totalevents116156HeterogeneityChi²=3.79,df=6(P=0.71);P=0%TestforoveralleffectZ=4.86(P<0.00001)0.010.110100FavoursexperimentalFavourscontrol图14-1森林图以下说法中，不正确的是",
+    "options": [
+      "原始文献的效应指标为二分类变量",
+      "本研究纳人文献的异质性较小",
+      "有三篇原始文献试验组的结局发生率高于对照组",
+      "“疤疾流行区孕妇常规服抗疤药可降低婴儿低出生体重发生率”的结论成立",
+      "有四篇原始文献显示婴儿低出生体重发生率的差异无统计学意义"
+    ],
+    "answer": [],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 127,
+    "reviewStatus": "draft-answer-missing",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0315"
+  },
+  {
+    "stem": "系统评价时，仅通过少数几个主要的医学文献检索库检索文献可能引人的偏倚是",
+    "options": [
+      "文献库偏倚",
+      "发表偏倚",
+      "纳人标准偏倚",
+      "权重偏倚",
+      "语言偏倚"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0316"
+  },
+  {
+    "stem": "系统评价时，只检索英文文献可能引人的偏倚是",
+    "options": [
+      "文献库偏倚",
+      "发表偏倚",
+      "纳人标准偏倚",
+      "权重偏倚",
+      "语言偏倚"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-full-0317"
+  },
+  {
+    "stem": "系统评价时，收集灰色文献的目的在于减少的偏倚是",
+    "options": [
+      "文献库偏倚",
+      "发表偏倚",
+      "纳人标准偏倚",
+      "权重偏倚",
+      "语言偏倚"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-full-0318"
+  },
+  {
+    "stem": "收集文献时，未对研究对象、设计类型、干预措施等作出明确规定，可能引人的偏倚是",
+    "options": [
+      "文献库偏倚",
+      "发表偏倚",
+      "纳人标准偏倚",
+      "权重偏倚",
+      "语言偏倚"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-full-0319"
+  },
+  {
+    "stem": "系统评价时，由于使用不恰当的权重所引起的偏倚称为",
+    "options": [
+      "文献库偏倚",
+      "发表偏倚",
+      "纳人标准偏倚",
+      "权重偏倚",
+      "语言偏倚"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-full-0320"
+  },
+  {
+    "stem": "循证医学所收集的证据中，质量等级最低的为",
+    "options": [
+      "单项大样本随机对照试验",
+      "队列研究",
+      "病例对照研究",
+      "基于随机对照试验的系统评价",
+      "没有分析评价的专家意见"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-full-0321"
+  },
+  {
+    "stem": "循证医学所收集的证据中，质量等级最佳的为",
+    "options": [
+      "单项大样本随机对照试验",
+      "队列研究",
+      "病例对照研究",
+      "基于随机对照试验的系统评价",
+      "没有分析评价的专家意见"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十四章 循证医学与系统综述",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 128,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-full-0322"
+  },
+  {
+    "stem": "药物流行病学的发展源于",
+    "options": [
+      "20世纪40年代",
+      "20世纪50年代",
+      "20世纪60年代",
+      "20世纪70年代",
+      "20世纪80年代"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 1,
+    "id": "lib-epi-full-0323"
+  },
+  {
+    "stem": "不是药物流行病学特点的是",
+    "options": [
+      "通过比较与对照的方法做研究",
+      "研究药物在人群中的应用及效应的学科",
+      "研究对象为个体而非群体",
+      "研究目的可以从监管、营销、法律和临床等四个角度来进行细划",
+      "研究对象除病人外也包括健康人"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 2,
+    "id": "lib-epi-full-0324"
+  },
+  {
+    "stem": "药物流行病学研究不具有的优势是",
+    "options": [
+      "可开展长期甚至几十年的研究",
+      "可分析某个医院处方不合理情况",
+      "可研究其他疾病、其他药物对药物效应的影响",
+      "可在特殊人群进行",
+      "可观察超量用药对人体的影响"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 3,
+    "id": "lib-epi-full-0325"
+  },
+  {
+    "stem": "描述正确的是",
+    "options": [
+      "ADR是可以预测和预防的",
+      "通过ADR研究可以确定个案报告的病因",
+      "ADR包括药源性损害",
+      "ADR不属于药源性损害",
+      "ADR包括不合理用药所致的药物毒副反应"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 4,
+    "id": "lib-epi-full-0326"
+  },
+  {
+    "stem": "使用医院的资料进行药物流行病学研究最可能导致",
+    "options": [
+      "混杂偏倚",
+      "选择偏倚",
+      "信息偏倚",
+      "欠佳的外部真实性",
+      "欠佳的内部真实性"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 5,
+    "id": "lib-epi-full-0327"
+  },
+  {
+    "stem": "可以探索药物反应停销售量的变化和短肢畸形发病人数的变化之间关系的研究方法是",
+    "options": [
+      "义务性监测",
+      "病例报告",
+      "生态比较研究",
+      "横断面调查",
+      "生态趋势研究"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 6,
+    "id": "lib-epi-full-0328"
+  },
+  {
+    "stem": "不是药物流行病学中病例对照研究注意事项的是",
+    "options": [
+      "一般选择新发病例较为合适",
+      "一般设立可比性对照",
+      "病例的选择要排除已知病因者",
+      "药物暴露信息的真实性",
+      "对照人数比病例人数少"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 7,
+    "id": "lib-epi-full-0329"
+  },
+  {
+    "stem": "对于一个药品生产企业，不是其开展药物流行学研究目的的是",
+    "options": [
+      "保护安全有效的药品免遭不良反应的指控",
+      "帮助占有和扩大市场",
+      "增加知名度",
+      "了解基于药物结构产生的问题",
+      "帮助上市药物重新定位"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 135,
+    "reviewStatus": "draft",
+    "ocrNumber": 8,
+    "id": "lib-epi-full-0330"
+  },
+  {
+    "stem": "不属于药物流行病学研究内容的是",
+    "options": [
+      "评价药物在人体内的代谢及安全有效性",
+      "药物有效性评价",
+      "药物利用研究",
+      "药物安全性评价",
+      "药物经济学研究"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 9,
+    "id": "lib-epi-full-0331"
+  },
+  {
+    "stem": "不属于药物流行病学上市后研究的是",
+    "options": [
+      "了解药物对特殊人群的作用",
+      "对药物在预防和治疗工作中的花费和效益进行评价",
+      "研究并发疾病和合并用药的影响",
+      "了解人群中药物利用的情况",
+      "临床试验研究"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 10,
+    "id": "lib-epi-full-0332"
+  },
+  {
+    "stem": "真实性和完整性最好的资料是",
+    "options": [
+      "医院的资料",
+      "生命统计资料",
+      "药厂的资料",
+      "通过医疗和药物管理机构获得的资料",
+      "专题资料"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 11,
+    "id": "lib-epi-full-0333"
+  },
+  {
+    "stem": "评价药物疗效和生物制品预防效果的最佳方法是",
+    "options": [
+      "ADR监测",
+      "病例对照研究",
+      "病例报告",
+      "队列研究",
+      "随机化对照试验"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 12,
+    "id": "lib-epi-full-0334"
+  },
+  {
+    "stem": "对我国ADR的描述错误的是",
+    "options": [
+      "我国ADR监测是从20世纪80年代开始的",
+      "目前我国的ADR监测上报原则为“可疑即报”",
+      "ADR监测由国家食品药品监督管理总局统一管理",
+      "由于我国对ADR的报告意识很强，ADR的漏报率很低",
+      "我国于1989年成立国家药品不良反应监测中心"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 13,
+    "id": "lib-epi-full-0335"
+  },
+  {
+    "stem": "严重不良反应的主要表现和危害是",
+    "options": [
+      "不良反应症状明显",
+      "可缩短或危及生命",
+      "有器官或系统损害",
+      "不良反应症状不发展",
+      "重要器官或系统有损害"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 14,
+    "id": "lib-epi-full-0336"
+  },
+  {
+    "stem": "某医院2015年住院病人数男性为4550人女性为5032人，其中女性病人应用抗生素、呼吸系统药物、消化系统药物、血液系统药物、心血管系统药物、妇科用药、止痛药物后发生不良反应的人数分别为189、146、78、29、19、60、41人，则该院2015年药物不良反应在女性病人中的发生率为",
+    "options": [
+      "12.4%",
+      "21.2%",
+      "5.87%",
+      "18%",
+      "11.2%"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 136,
+    "reviewStatus": "draft",
+    "ocrNumber": 15,
+    "id": "lib-epi-full-0337"
+  },
+  {
+    "stem": "著名的“反应停”事件中所用的药物为",
+    "options": [
+      "抗菌药",
+      "减肥药",
+      "中成药",
+      "早孕反应药物",
+      "解热镇痛药物"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 16,
+    "id": "lib-epi-full-0338"
+  },
+  {
+    "stem": "某医院2017年住院总人数为1900人，其中有900名女性病人应用了妇科药物，其中27位病人出现了药物不良反应，则该院2017年应用妇科药物引起的药物不良反应发生率为",
+    "options": [
+      "5%",
+      "6%",
+      "3%",
+      "1.4%",
+      "2.4%"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 17,
+    "id": "lib-epi-full-0339"
+  },
+  {
+    "stem": "阿托品用于治疗胃肠道痉挛时，引起口干、心悸、尿留等反应属于",
+    "options": [
+      "毒性反应",
+      "副作用",
+      "后遗作用",
+      "首剂效应",
+      "继发反应"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 18,
+    "id": "lib-epi-full-0340"
+  },
+  {
+    "stem": "美国开展全国门诊医疗调查，要求医师报告一星期内治疗的门诊病人和处方，属于药物流行病学研究方法中的",
+    "options": [
+      "描述性研究方法",
+      "队列研究",
+      "实验性研究方法",
+      "病例对照研究方法",
+      "分析性研究方法"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 19,
+    "id": "lib-epi-full-0341"
+  },
+  {
+    "stem": "某病人应用青霉素后发生过敏反应，此类不良反应属于的分型是",
+    "options": [
+      "A型",
+      "B型",
+      "C型",
+      "D型",
+      "E型"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 20,
+    "id": "lib-epi-full-0342"
+  },
+  {
+    "stem": "调查药物引起出生畸形时，畸形儿童的母亲由于不幸的经历，会比正常儿童的母亲对孕期用药史回忆得更确切，这种情况属于",
+    "options": [
+      "随机变异",
+      "测定偏倚",
+      "回忆偏倚",
+      "正确操作",
+      "间接混杂"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 21,
+    "id": "lib-epi-full-0343"
+  },
+  {
+    "stem": "服用氰化物会引起死亡，并且间隔反应为几秒钟，这种联系具有",
+    "options": [
+      "时间顺序",
+      "生物学合理性",
+      "特异性",
+      "剂量-反应的强度",
+      "一贯性"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 22,
+    "id": "lib-epi-full-0344"
+  },
+  {
+    "stem": "研究药物不良反应时，用住院病人作研究对象易发生",
+    "options": [
+      "选择偏倚",
+      "信息偏倚",
+      "混杂偏倚",
+      "失访偏倚",
+      "随机误差"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 23,
+    "id": "lib-epi-full-0345"
+  },
+  {
+    "stem": "研究药物不良反应时，常用分层分析方法来控制",
+    "options": [
+      "选择偏倚",
+      "信息偏倚",
+      "混杂偏倚",
+      "失访偏倚",
+      "随机误差"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 24,
+    "id": "lib-epi-full-0346"
+  },
+  {
+    "stem": "如果病人正在服用数种药物，判断药物不良反应是由哪种药物引起时，常采用双盲法以尽",
+    "options": [
+      "选择偏倚",
+      "信息偏倚",
+      "混杂偏倚",
+      "失访偏倚",
+      "随机误差量减少"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 25,
+    "id": "lib-epi-full-0347"
+  },
+  {
+    "stem": "与剂量不相关的药品不良反应是",
+    "options": [
+      "A型药物不良反应",
+      "B型药物不良反应",
+      "C型药物不良反应",
+      "首过效应",
+      "毒性反应"
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 26,
+    "id": "lib-epi-full-0348"
+  },
+  {
+    "stem": "多发生在长期用药后，潜伏期长、难以预测的不良反应属于",
+    "options": [
+      "A型药物不良反应",
+      "B型药物不良反应",
+      "C型药物不良反应",
+      "首过效应",
+      "毒性反应"
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 27,
+    "id": "lib-epi-full-0349"
+  },
+  {
+    "stem": "与剂量相关的药物不良反应是",
+    "options": [
+      "A型药物不良反应",
+      "B型药物不良反应",
+      "C型药物不良反应",
+      "首过效应",
+      "毒性反应"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 28,
+    "id": "lib-epi-full-0350"
+  },
+  {
+    "stem": "药物引起人的生理、生化功能异常和病理变化的属于",
+    "options": [
+      "A型药物不良反应",
+      "B型药物不良反应",
+      "C型药物不良反应",
+      "首过效应",
+      "毒性反应"
+    ],
+    "answer": [
+      "E"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 137,
+    "reviewStatus": "draft",
+    "ocrNumber": 29,
+    "id": "lib-epi-full-0351"
+  },
+  {
+    "stem": "按药理作用关系分型为B型药物不良反应的是",
+    "options": [
+      "致癌效应",
+      "后遗效应",
+      "毒性反应",
+      "过敏反应",
+      "停药综合征"
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 138,
+    "reviewStatus": "draft",
+    "ocrNumber": 30,
+    "id": "lib-epi-full-0352"
+  },
+  {
+    "stem": "按药理作用关系分型为C型药物不良反应的是",
+    "options": [
+      "致癌效应",
+      "后遗效应",
+      "毒性反应",
+      "过敏反应",
+      "停药综合征"
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": "第十五章 药物流行病学",
+    "tag": "选择题",
+    "explain": "",
+    "referenceAnswer": "",
+    "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+    "page": 138,
+    "reviewStatus": "draft",
+    "ocrNumber": 31,
+    "id": "lib-epi-full-0353"
+  }
+]

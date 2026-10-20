@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="353 卫生综合刷题室：流行病学、卫生统计学、社会医学、环境卫生学、职业卫生与职业医学、营养与食品卫生学，按章节刷题、错题本、收藏与模拟考试。"
+    />
+    <meta name="keywords" content="353,卫生综合,公共卫生考研,流行病学,卫生统计学,社会医学,环境卫生学,职业卫生,营养与食品卫生学,刷题" />
+    <meta name="theme-color" content="#f6f4ee" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="353 刷题" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content="353 刷题室｜卫生综合分章节练习" />
+    <meta property="og:description" content="按章节刷题、自动错题本、收藏夹、限时模拟考试与学习统计。" />
+    <title>353 刷题室｜卫生综合分章节练习</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23245c4c'/%3E%3Ctext x='32' y='45' font-size='34' text-anchor='middle' fill='%23fffdf8' font-family='serif'%3E%E9%A2%98%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="assets/styles.css?v=3" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="icon-button menu-button" data-action="menu" aria-label="打开目录">☰</button>
+        <a class="brand" href="#/">
+          <span class="brand-mark" aria-hidden="true">题</span>
+          <span class="brand-copy">
+            <strong>353 刷题室</strong>
+            <small>PUBLIC HEALTH QUIZ</small>
+          </span>
+        </a>
+        <div class="top-actions">
+          <span class="top-chip" data-top-streak>连 0 天</span>
+          <a class="top-practice" href="library.html">教材题库</a>
+          <button class="top-practice" data-action="quick-random">随手练 20 题</button>
+          <button class="icon-button" data-action="toggle-theme" aria-label="切换深浅色主题">◐</button>
+        </div>
+      </header>
+
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-heading">
+          <span>目录</span>
+          <button class="icon-button sidebar-close" data-action="close-menu" aria-label="关闭目录">×</button>
+        </div>
+        <nav id="noteTree" aria-label="题库目录"></nav>
+        <footer class="sidebar-footer">正在载入题库…</footer>
+      </aside>
+
+      <main class="main" id="mainContent">
+        <div class="loading">正在整理题库…</div>
+      </main>
+    </div>
+
+    <div class="overlay" id="overlay" data-action="close-menu"></div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <dialog class="confirm-dialog" id="confirmDialog">
+      <h2 data-confirm-title>请确认</h2>
+      <p data-confirm-body></p>
+      <div class="dialog-actions">
+        <button class="btn btn-ghost" type="button" data-confirm-cancel>取消</button>
+        <button class="btn btn-primary" type="button" data-confirm-ok>确定</button>
+      </div>
+    </dialog>
+
+    <noscript>
+      <p style="padding: 24px; font-family: sans-serif">这个刷题网站需要启用 JavaScript。</p>
+    </noscript>
+
+    <script src="assets/store.js?v=3"></script>
+    <script src="assets/data.js?v=3"></script>
+    <script src="assets/ui.js?v=3"></script>
+    <script src="assets/practice.js?v=3"></script>
+    <script src="assets/exam.js?v=3"></script>
+    <script src="assets/library.js?v=3"></script>
+    <script src="assets/app.js?v=3"></script>
+  </body>
+</html>

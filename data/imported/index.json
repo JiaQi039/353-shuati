@@ -1,0 +1,608 @@
+{
+  "updated": "2026-10-20",
+  "books": [
+    {
+      "slug": "epi-ch5",
+      "title": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+      "subject": "流行病学",
+      "subtitle": "名词解释、填空题、33 道选择题、简答题与分析计算题",
+      "file": "data/imported/books/epi-ch5.json",
+      "pages": "37-47",
+      "source": "流行病学学习指导与习题集（第4版）· 第五章 队列研究",
+      "status": "draft",
+      "count": 58,
+      "chapters": [
+        {
+          "name": "第五章 队列研究",
+          "count": 33
+        },
+        {
+          "name": "一、名词解释",
+          "count": 12
+        },
+        {
+          "name": "二、填空题",
+          "count": 8
+        },
+        {
+          "name": "四、简答题",
+          "count": 4
+        },
+        {
+          "name": "五、分析计算题",
+          "count": 1
+        }
+      ],
+      "types": {
+        "single": 33,
+        "short": 17,
+        "fill": 8
+      }
+    },
+    {
+      "slug": "epi-full",
+      "title": "流行病学学习指导与习题集（第4版）· 全书选择题",
+      "subject": "流行病学",
+      "subtitle": "15 章 353 道选择题；350 题已匹配章末答案，3 题缺答案",
+      "file": "data/imported/books/epi-full.json",
+      "pages": "7-141",
+      "source": "流行病学学习指导与习题集（第4版）· 全书选择题",
+      "status": "draft",
+      "count": 353,
+      "chapters": [
+        {
+          "name": "第一章 绪论",
+          "count": 14
+        },
+        {
+          "name": "第二章 疾病的分布",
+          "count": 28
+        },
+        {
+          "name": "第三章 病因与病因推断",
+          "count": 20
+        },
+        {
+          "name": "第四章 描述性研究",
+          "count": 20
+        },
+        {
+          "name": "第五章 队列研究",
+          "count": 33
+        },
+        {
+          "name": "第六章 病例对照研究",
+          "count": 30
+        },
+        {
+          "name": "第七章 实验流行病学研究",
+          "count": 11
+        },
+        {
+          "name": "第八章 筛检与诊断试验",
+          "count": 22
+        },
+        {
+          "name": "第九章 疾病预后研究",
+          "count": 16
+        },
+        {
+          "name": "第十章 传染病流行病学",
+          "count": 40
+        },
+        {
+          "name": "第十一章 慢性非传染性疾病流行病学",
+          "count": 19
+        },
+        {
+          "name": "第十二章 疾病监测",
+          "count": 20
+        },
+        {
+          "name": "第十三章 医院感染",
+          "count": 21
+        },
+        {
+          "name": "第十四章 循证医学与系统综述",
+          "count": 28
+        },
+        {
+          "name": "第十五章 药物流行病学",
+          "count": 31
+        }
+      ],
+      "types": {
+        "single": 353
+      }
+    },
+    {
+      "slug": "social-wecan",
+      "title": "社会医学学习指导习题集（卫灿）· 全书选择题",
+      "subject": "社会医学",
+      "subtitle": "16 章 269 道选择题；170 题匹配答案，99 题缺答案或选项不完整",
+      "file": "data/imported/books/social-wecan.json",
+      "pages": "8-137",
+      "source": "社会医学学习指导习题集（卫灿）· 全书选择题",
+      "status": "draft",
+      "count": 269,
+      "chapters": [
+        {
+          "name": "第一章 绪论",
+          "count": 10
+        },
+        {
+          "name": "第二章 医学模式",
+          "count": 18
+        },
+        {
+          "name": "第三章 社会因素与健康",
+          "count": 32
+        },
+        {
+          "name": "第四章 行为心理因素与健康",
+          "count": 14
+        },
+        {
+          "name": "第五章 社会医学研究方法",
+          "count": 38
+        },
+        {
+          "name": "第六章 健康状况评价",
+          "count": 10
+        },
+        {
+          "name": "第七章 健康危险因素评价",
+          "count": 12
+        },
+        {
+          "name": "第八章 生活质量评价",
+          "count": 15
+        },
+        {
+          "name": "第九章 社区卫生服务",
+          "count": 16
+        },
+        {
+          "name": "第十章 医疗保障制度",
+          "count": 27
+        },
+        {
+          "name": "第十一章 卫生服务研究",
+          "count": 22
+        },
+        {
+          "name": "第十二章 特殊人群的社会医学",
+          "count": 10
+        },
+        {
+          "name": "第十三章 社会病防治",
+          "count": 14
+        },
+        {
+          "name": "第十四章 慢性病的社会医学防治",
+          "count": 11
+        },
+        {
+          "name": "第十五章 家庭保健",
+          "count": 14
+        },
+        {
+          "name": "第十六章 国际卫生组织与项目",
+          "count": 6
+        }
+      ],
+      "types": {
+        "single": 269
+      }
+    },
+    {
+      "slug": "stat-6",
+      "title": "卫生统计学学习指导与习题集（第六版）· 选择题",
+      "subject": "卫生统计学",
+      "subtitle": "23 章 236 道选择题；159 题匹配答案，77 题缺答案",
+      "file": "data/imported/books/stat-6.json",
+      "pages": "练习页 21-359",
+      "source": "卫生统计学学习指导与习题集（第六版）· 选择题",
+      "status": "draft",
+      "count": 236,
+      "chapters": [
+        {
+          "name": "第一章",
+          "count": 11
+        },
+        {
+          "name": "第二章",
+          "count": 13
+        },
+        {
+          "name": "第三章",
+          "count": 17
+        },
+        {
+          "name": "第四章",
+          "count": 4
+        },
+        {
+          "name": "第五章",
+          "count": 15
+        },
+        {
+          "name": "第六章",
+          "count": 9
+        },
+        {
+          "name": "第七章",
+          "count": 13
+        },
+        {
+          "name": "第八章",
+          "count": 11
+        },
+        {
+          "name": "第九章",
+          "count": 7
+        },
+        {
+          "name": "第十章",
+          "count": 11
+        },
+        {
+          "name": "第十一章",
+          "count": 21
+        },
+        {
+          "name": "第十二章",
+          "count": 13
+        },
+        {
+          "name": "第十三章",
+          "count": 15
+        },
+        {
+          "name": "第十四章",
+          "count": 7
+        },
+        {
+          "name": "第十五章",
+          "count": 15
+        },
+        {
+          "name": "第十六章",
+          "count": 8
+        },
+        {
+          "name": "第十九章",
+          "count": 16
+        },
+        {
+          "name": "第二十章",
+          "count": 9
+        },
+        {
+          "name": "第二十一章",
+          "count": 8
+        },
+        {
+          "name": "第二十二章",
+          "count": 7
+        },
+        {
+          "name": "第二十三章",
+          "count": 6
+        }
+      ],
+      "types": {
+        "single": 236
+      }
+    },
+    {
+      "slug": "prev-4",
+      "title": "预防医学学习指导与习题集（第4版）· 全书选择题",
+      "subject": "预防医学",
+      "subtitle": "23 章 988 道选择题；959 题匹配答案，29 题缺答案",
+      "file": "data/imported/books/prev-4.json",
+      "pages": "8-241",
+      "source": "预防医学学习指导与习题集（第4版）· 全书选择题",
+      "status": "draft",
+      "count": 988,
+      "chapters": [
+        {
+          "name": "第一章",
+          "count": 37
+        },
+        {
+          "name": "第二章",
+          "count": 20
+        },
+        {
+          "name": "第三章",
+          "count": 63
+        },
+        {
+          "name": "第四章",
+          "count": 99
+        },
+        {
+          "name": "第五章",
+          "count": 43
+        },
+        {
+          "name": "第六章",
+          "count": 36
+        },
+        {
+          "name": "第七章",
+          "count": 9
+        },
+        {
+          "name": "第八章",
+          "count": 36
+        },
+        {
+          "name": "第九章",
+          "count": 25
+        },
+        {
+          "name": "第十章",
+          "count": 40
+        },
+        {
+          "name": "第十一章",
+          "count": 1
+        },
+        {
+          "name": "第十二章",
+          "count": 44
+        },
+        {
+          "name": "第十三章",
+          "count": 75
+        },
+        {
+          "name": "第十四章",
+          "count": 51
+        },
+        {
+          "name": "第十五章",
+          "count": 27
+        },
+        {
+          "name": "第十六章",
+          "count": 78
+        },
+        {
+          "name": "第十七章",
+          "count": 99
+        },
+        {
+          "name": "第十八章",
+          "count": 37
+        },
+        {
+          "name": "第十九章",
+          "count": 7
+        },
+        {
+          "name": "第二十章",
+          "count": 43
+        },
+        {
+          "name": "第二十一章",
+          "count": 69
+        },
+        {
+          "name": "第二十二章",
+          "count": 39
+        },
+        {
+          "name": "第二十三章",
+          "count": 10
+        }
+      ],
+      "types": {
+        "single": 988
+      }
+    },
+    {
+      "slug": "nut-3",
+      "title": "营养与食品卫生学学习指导与习题集（第3版）· 选择题",
+      "subject": "营养与食品卫生学",
+      "subtitle": "14 章 779 道选择题；694 题匹配答案，85 题缺答案",
+      "file": "data/imported/books/nut-3.json",
+      "pages": "1-272",
+      "source": "营养与食品卫生学学习指导与习题集（第3版）· 选择题",
+      "status": "draft",
+      "count": 779,
+      "chapters": [
+        {
+          "name": "第十章",
+          "count": 54
+        },
+        {
+          "name": "第一章",
+          "count": 137
+        },
+        {
+          "name": "第二章",
+          "count": 26
+        },
+        {
+          "name": "第三章",
+          "count": 47
+        },
+        {
+          "name": "第四章",
+          "count": 57
+        },
+        {
+          "name": "第五章",
+          "count": 38
+        },
+        {
+          "name": "第六章",
+          "count": 22
+        },
+        {
+          "name": "第七章",
+          "count": 57
+        },
+        {
+          "name": "第八章",
+          "count": 24
+        },
+        {
+          "name": "第九章",
+          "count": 104
+        },
+        {
+          "name": "第十一章",
+          "count": 62
+        },
+        {
+          "name": "第十二章",
+          "count": 91
+        },
+        {
+          "name": "第十三章",
+          "count": 33
+        },
+        {
+          "name": "第十四章",
+          "count": 27
+        }
+      ],
+      "types": {
+        "single": 779
+      }
+    },
+    {
+      "slug": "env-2",
+      "title": "环境卫生学学习指导与习题集（第2版）· 选择题",
+      "subject": "环境卫生学",
+      "subtitle": "15 章 695 道选择题；418 题匹配答案，277 题缺答案或选项不完整",
+      "file": "data/imported/books/env-2.json",
+      "pages": "58-224",
+      "source": "环境卫生学学习指导与习题集（第2版）· 选择题",
+      "status": "draft",
+      "count": 695,
+      "chapters": [
+        {
+          "name": "第一章",
+          "count": 19
+        },
+        {
+          "name": "第二章",
+          "count": 54
+        },
+        {
+          "name": "第三章",
+          "count": 46
+        },
+        {
+          "name": "第四章",
+          "count": 51
+        },
+        {
+          "name": "第五章",
+          "count": 95
+        },
+        {
+          "name": "第六章",
+          "count": 42
+        },
+        {
+          "name": "第七章",
+          "count": 85
+        },
+        {
+          "name": "第八章",
+          "count": 18
+        },
+        {
+          "name": "第九章",
+          "count": 31
+        },
+        {
+          "name": "第十章",
+          "count": 29
+        },
+        {
+          "name": "第十一章",
+          "count": 25
+        },
+        {
+          "name": "第十二章",
+          "count": 72
+        },
+        {
+          "name": "第十三章",
+          "count": 85
+        },
+        {
+          "name": "第十四章",
+          "count": 30
+        },
+        {
+          "name": "第十五章",
+          "count": 13
+        }
+      ],
+      "types": {
+        "single": 695
+      }
+    },
+    {
+      "slug": "occ-niu",
+      "title": "职业卫生与职业医学学习指导与习题集（牛侨）· 选择题",
+      "subject": "职业卫生与职业医学",
+      "subtitle": "9 章 445 道选择题；161 题匹配内联答案，284 题缺答案",
+      "file": "data/imported/books/occ-niu.json",
+      "pages": "8-165",
+      "source": "职业卫生与职业医学学习指导与习题集（牛侨）· 选择题",
+      "status": "draft",
+      "count": 445,
+      "chapters": [
+        {
+          "name": "第一章",
+          "count": 39
+        },
+        {
+          "name": "第二章",
+          "count": 19
+        },
+        {
+          "name": "第三章",
+          "count": 42
+        },
+        {
+          "name": "第四章",
+          "count": 29
+        },
+        {
+          "name": "第五章",
+          "count": 104
+        },
+        {
+          "name": "第六章",
+          "count": 91
+        },
+        {
+          "name": "第七章",
+          "count": 61
+        },
+        {
+          "name": "第八章",
+          "count": 50
+        },
+        {
+          "name": "第九章",
+          "count": 10
+        }
+      ],
+      "types": {
+        "single": 441,
+        "multiple": 4
+      }
+    }
+  ]
+}

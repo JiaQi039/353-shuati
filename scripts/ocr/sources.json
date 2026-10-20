@@ -1,0 +1,27 @@
+{
+  "base_dir": "C:/Users/sjq/Downloads/题库",
+  "books": [
+    {"slug": "epi-4", "file": "流行病学学习指导与习题集++第4版+修复版.pdf", "subject": "流行病学", "pages": 141, "status": "ocr-done"},
+    {"slug": "epi-3-wecan", "file": "流行病学学习指导与习题集第3版【卫灿（WECAN）公卫研习社】.pdf", "subject": "流行病学", "pages": 240, "status": "pending"},
+    {"slug": "epi-b5", "file": "B5流行病学应试指南.pdf", "subject": "流行病学", "pages": 208, "status": "pending"},
+    {"slug": "epi-review", "file": "流行病学复习应试指南.pdf", "subject": "流行病学", "pages": 256, "status": "pending"},
+    {"slug": "stat-6", "file": "习题集：卫生统计学学习指导与习题集(第六版）.pdf", "subject": "卫生统计学", "pages": 359, "status": "pending"},
+    {"slug": "stat-chen", "file": "卫生统计学+陈长生老师主编+习题集.pdf", "subject": "卫生统计学", "pages": 341, "status": "pending"},
+    {"slug": "stat-chen-2", "file": "卫生统计学—陈长生-习题集.pdf", "subject": "卫生统计学", "pages": 341, "status": "pending"},
+    {"slug": "stat-zhao-book", "file": "卫生统计学_赵耐青2009.pdf", "subject": "卫生统计学", "pages": 201, "status": "pending"},
+    {"slug": "stat-zhao-ex", "file": "卫生统计学习题集赵耐青2009.pdf", "subject": "卫生统计学", "pages": 205, "status": "pending"},
+    {"slug": "stat-guide", "file": "卫生统计学学习指导与习题集.pdf", "subject": "卫生统计学", "pages": 359, "status": "pending"},
+    {"slug": "stat-li", "file": "李晓松.卫生统计学学习指导与习题集.人卫第3版.2018.pdf", "subject": "卫生统计学", "pages": 256, "status": "pending"},
+    {"slug": "env-1", "file": "环境卫生学学习指导与习题集.pdf", "subject": "环境卫生学", "pages": 183, "status": "pending"},
+    {"slug": "env-2", "file": "环境卫生学学习指导与习题集第2版【卫灿（WECAN）公卫研习社】.pdf", "subject": "环境卫生学", "pages": 224, "status": "pending"},
+    {"slug": "social-pku", "file": "社会医学习题集北医mph.pdf", "subject": "社会医学", "pages": 72, "status": "pending"},
+    {"slug": "social-wecan", "file": "社会医学学习指导习题集【卫灿（WECAN）公卫研习社】.pdf", "subject": "社会医学", "pages": 137, "status": "ocr-done"},
+    {"slug": "nut-3", "file": "营养与食品卫生学学习指导与习题集第3版【卫灿（WECAN ）公卫研习社】.pdf", "subject": "营养与食品卫生学", "pages": 272, "status": "pending"},
+    {"slug": "nut-2007", "file": "营养与食品卫生学学习指导及习题集+王舒然老师主编+人卫出版社+2007年版.pdf", "subject": "营养与食品卫生学", "pages": 293, "status": "pending"},
+    {"slug": "occ-niu", "file": "需打印的习题集：职业卫生与职业医学 牛侨_11767535.pdf", "subject": "职业卫生与职业医学", "pages": 165, "status": "pending"},
+    {"slug": "prev-3", "file": "预防医学学习指导与习题集 第3版 傅华 人民卫生出版社 2014年 中文黑白扫描数字书签.pdf", "subject": "预防医学", "pages": 380, "status": "pending"},
+    {"slug": "prev-4", "file": "预防医学学习指导与习题集（第4版本科临床配套）9787117282840_14646651-加-.pdf", "subject": "预防医学", "pages": 241, "status": "pending"},
+    {"slug": "epi-doc", "file": "流行学习题集.doc", "subject": "流行病学", "pages": 0, "status": "doc-converted"},
+    {"slug": "occ-doc", "file": "职业卫生与职业医学习题集(已做).doc", "subject": "职业卫生与职业医学", "pages": 0, "status": "doc-converted"}
+  ]
+}
